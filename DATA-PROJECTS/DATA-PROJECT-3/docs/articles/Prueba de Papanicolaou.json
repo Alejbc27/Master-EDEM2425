@@ -1,0 +1,124 @@
+{
+  "titulo": "Prueba de Papanicolaou",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un examen que busca principalmente cambios que pueden convertirse en cáncer de cuello uterino. Las células tomadas por raspado de la abertura del cuello uterino se examinan bajo un microscopio. El cuello uterino es la parte más baja del útero (matriz) que desemboca en la parte superior de la vagina.",
+      "Esta prueba a veces se llama \"frotis\" de Papanicolaou o \"citología cervical.\""
+    ],
+    "forma en que se realiza el examen": [
+      "Usted se acuesta sobre una mesa y coloca sus pies en reposapiés. Su proveedor de atención médica inserta cuidadosamente un instrumento llamado espéculo dentro de su vagina para abrirla ligeramente. Esto le permite a su proveedor observar su cuello uterino.",
+      "Se recolectan células suavemente de su cuello uterino. La muestra de células se envía a un laboratorio para su análisis."
+    ],
+    "preparación para el examen": [
+      "Dígale a su proveedor si:",
+      "Ha tenido un resultado anormal en una prueba de Papanicolaou o una prueba positiva para el virus del papiloma humano (VPH) en el pasado. El VPH es un virus que provoca verrugas genitales y cáncer cervical.",
+      "Podría estar embarazada.",
+      "Dentro de las 24 horas anteriores al examen, NO haga lo siguiente:",
+      "Duchas vaginales (nunca debe ducharse)",
+      "Tener relaciones sexuales",
+      "Usar tampones",
+      "Intente no programar la prueba de Papanicolaou para cuando tenga el periodo, pero si está presentando un sangrado inesperado, no cancele su examen. Su proveedor determinará si todavía se puede hacer la prueba de Papanicolaou.",
+      "Para su comodidad, es posible que desee vaciar su vejiga justo antes del examen."
+    ],
+    "lo que se siente durante el examen": [
+      "Una prueba de Papanicolaou solo causa una leve incomodidad en la mayoría de las personas. La incomodidad que causa es usualmente similar a la de los dolores menstruales. Usted también puede sentir presión durante el examen.",
+      "Además, puede sangrar un poco después del examen."
+    ],
+    "razones por las que se realiza el examen": [
+      "La prueba de Papanicolaou busca cambios en las células cervicales que pueden convertirse en cáncer cervical. La mayoría de los cánceres cervicales se pueden evitar si se realiza pruebas de detección según la programación recomendada.",
+      "Los expertos no se ponen de acuerdo sobre cuándo y con qué frecuencia deben hacerse los exámenes para cáncer cervical, incluyendo las pruebas de Papanicolaou. Algunos recomiendan comenzar a practicarse las pruebas de Papanicolaou a los 21 años y luego hacerla cada 3 años. Otros recomiendan esperar hasta los 25 años y usar una prueba primaria de VPH (una aprobada por la FDA para este propósito) para detectar el cáncer cervical. Hable con su proveedor para elegir el mejor enfoque para usted.",
+      "Si tiene 30 años o más, puede hacer cualquiera de lo siguiente:",
+      "Seguir realizándose una prueba de Papanicolaou cada 3 años",
+      "Cambiar a una prueba para VPH cada 5 años",
+      "Realizarse ambas, la prueba de Papanicolaou y de VHP cada 5 años",
+      "Es posible que no necesite una prueba de Papanicolaou si tuvo una histerectomía total (extirpación del útero y del cuello uterino for una razón diferente al cáncer) y tuvo pruebas de Papanicolaou normales en el pasado.",
+      "La mayoría de las personas pueden dejar de realizarse pruebas de Papanicolaou después de los 65 años si han tenido resultados normales en las pruebas en el pasado. Pregúntele a su proveedor cuándo debería dejar de hacerse pruebas de detección."
+    ],
+    "resultados normales": [
+      "Un resultado normal significa que no hay células anormales presentes. La prueba de Papanicolaou no es 100% precisa, y esta es la razón por la cual se recomienda repetir la prueba con el tiempo. Debido a que el cáncer cervical se desarrolla muy lentamente, por lo general, las pruebas de Papanicolaou repetidas encuentran cambios a tiempo para dar tratamiento antes de que el cáncer se desarrolle."
+    ],
+    "significado de los resultados anormales": [
+      "Los resultados anormales más comunes en la prueba de Papanicolaou son:",
+      "Células escamosas atípicas de significado indeterminado (ASC-US)",
+      "El resultado de esta prueba se considera un cambio leve.",
+      "Estos cambios pueden deberse a una infección por VPH, inflamación o falta de estrógenos como ocurre en la menopausia.",
+      "Se recomienda repetir las pruebas de Papanicolaou o hacer una prueba de VPH. Si una prueba de VPH es positiva, se recomienda una colposcopia.",
+      "Lesión escamosa intraepitelial de bajo grado (LEIBG)",
+      "El resultado de esta prueba se considera un cambio leve.",
+      "Estos cambios a menudo están asociados con una infección activa por VPH, pero pueden indicar que hay un precáncer o cáncer.",
+      "Se recomienda una colposcopia, a menos que una prueba de VPH sea negativa, en cuyo caso con frecuencia se recomienda repetir la prueba de Papanicolaou o de VPH en un año.",
+      "Células escamosas atípicas, no se puede descartar LEIAG (ASC-H)",
+      "El resultado de esta prueba se considera un cambio relativamente grave.",
+      "Estos cambios pueden indicar que hay un precáncer o cáncer.",
+      "Se recomienda una colposcopia.",
+      "Lesión escamosa intraepitelial de alto grado (LEIAG)",
+      "El resultado de esta prueba se considera un cambio grave.",
+      "Estos cambios pueden indicar que hay un precáncer o cáncer.",
+      "Se recomienda una colposcopia.",
+      "Células glandulares atípicas (CGA)",
+      "El resultado de esta prueba se considera un cambio grave.",
+      "Estos cambios pueden indicar que hay un precáncer o cáncer de las células dentro del cuello uterino o el útero.",
+      "Se recomienda una colposcopia y puede incluir una biopsia del recubrimiento del útero."
+    ],
+    "nombres alternativos": [
+      "Prueba de Papanicolaou; Frotis de Pap; Prueba de detección de cáncer cervical - citología vaginal; Neoplasia intraepitelial cervical - Papanicolaou; NIC - Papanicolaou; Cambios precancerosos del cuello uterino - Papanicolaou; Cáncer de cuello uterino - Papanicolaou; Lesión intraepitelial escamosa - Papanicolaou; LSIL - Papanicolaou; HSIL - Papanicolaou; Papanicolaou de bajo grado; Papanicolaou de alto grado; Carcinoma in situ - Papanicolaou; CIS - Papanicolaou; ASCUS - Papanicolaou; Células glandulares atípicas - Papanicolaou; CASI - Papanicolaou; Células escamosas atípicas - Papanicolaou; VPH - Papanicolaou; Virus del papiloma humano - Papanicolaou; Colposcopia - Papanicolaou; Citología cervical"
+    ],
+    "imágenes": [
+      "Anatomía reproductora femenina",
+      "Frotis de Papanicolaou",
+      "Útero",
+      "Erosión cervical",
+      "Frotis de Papanicolaou"
+    ],
+    "referencias": [
+      "Fontham ETH, Wolf AMD, Church TR, et al. Cervical cancer screening for individuals at average risk: 2020 guideline update from the American Cancer Society. CA Cancer J Clin. 2020;70(5):321-346. PMID: 32729638 pubmed.ncbi.nlm.nih.gov/32729638/.",
+      "Newkirk GR. Pap smear and related techniques for cervical cancer screening. In: Fowler GC, ed. Pfenninger and Fowler's Procedures for Primary Care. 4th ed. Philadelphia, PA: Elsevier; 2020:chap 120.",
+      "Perkins RB, Guido RS, Castle PE, et al; 2019 ASCCP Risk-Based Management Consensus Guidelines Committee. 2019 ASCCP Risk-Based Management Consensus Guidelines for Abnormal Cervical Cancer Screening Tests and Cancer Precursors. J Low Genit Tract Dis. 2020;24(2):102-131. Erratum in: J Low Genit Tract Dis. 2020;24(4):427. PMID: 32243307 pubmed.ncbi.nlm.nih.gov/32243307/.",
+      "Salcedo MP, Phoolcharoen N, Schmeler KM. Intraepithelial neoplasia of the lower genital tract (cervix, vagina, vulva): etiology, screening, diagnosis, management. In: Gershenson DM, Lentz GM, Valea FA, Lobo RA, eds. Comprehensive Gynecology. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 29.",
+      "US Preventive Services Task Force website. Cervical cancer: screening. www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening. August 21, 2018. Accessed July 19, 2024."
+    ],
+    "ultima revisión 1/1/2023": [
+      "Versión en inglés revisada por: John D. Jacobson, MD, Professor Emeritus, Department of Obstetrics and Gynecology, Loma Linda University School of Medicine, Loma Linda, CA. Internal review and update on 07/19/24 by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Pruebas y exámenes para el cáncer de cuello uterino",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

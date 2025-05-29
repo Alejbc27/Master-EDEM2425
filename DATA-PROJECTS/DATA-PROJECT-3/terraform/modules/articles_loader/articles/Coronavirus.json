@@ -1,0 +1,153 @@
+{
+  "titulo": "Coronavirus",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Los coronavirus son una familia de virus. La infección con estos virus generalmente causa enfermedades respiratorias que van de leves a moderadas, tales como el resfriado común. Algunos coronavirus ocasionan enfermedades graves que pueden llevar a neumonía, e incluso la muerte."
+    ],
+    "causas": [
+      "Existen muchos tipos diferentes de coronavirus. Afectan tanto a humanos como a animales. Los coronavirus humanos comunes causan enfermedades que van de leves a moderadas, tales como el resfriado común.",
+      "Algunos coronavirus que afectan a los animales evolucionan (mutan) y pasan de animales a humanos. Estos virus pueden entonces propagarse por contacto de persona a persona. A veces, los coronavirus que se propagan de animales a humanos pueden provocar una enfermedad más grave:",
+      "El síndrome respiratorio agudo grave (SARS, por sus siglas en inglés) es una forma grave de neumonía. Es causado por el coronavirus SARS-CoV. No se han reportado casos en seres humanos desde 2004.",
+      "El síndrome respiratorio de Oriente Medio (MERS, por sus siglas en inglés) es una enfermedad respiratoria grave. El MERS es causado por el coronavirus MERS-CoV. Alrededor del 30% de las personas que contrajeron esta enfermedad murieron. Algunas personas solo tienen síntomas leves. El MERS sigue provocando enfermedades en humanos, principalmente en la península arábiga.",
+      "La COVID-19 puede ser una enfermedad respiratoria que causa síntomas parecidos a los de la gripe, también puede afectar otras partes del cuerpo. Es provocada por el virus SARS-CoV-2 (síndrome respiratorio agudo grave coronavirus 2). La enfermedad por COVID-19 puede ir de moderada a grave e incluso causar la muerte. La COVID-19 es una amenaza de salud pública grave a nivel global y en los Estados Unidos.",
+      "Muchos coronavirus se originan en murciélagos, los cuales pueden infectar luego a otros animales. Las jinetas propagan el SARS-CoV, mientras que los camellos propagan el MERS-CoV. Se sospecha que el virus SARS-CoV-2 más reciente también se ha originado en animales. Pertenece a la misma familia de virus que el SARS-CoV, por esta razón tienen nombres similares. Existen muchos otros coronavirus circulando en animales, pero no se han trasmitido a humanos.",
+      "Una vez que una persona ha sido infectada con el coronavirus, la infección puede transmitirse a una persona sana (transmisión de persona a persona). Usted puede contagiarse de una infección por coronavirus cuando:",
+      "Una persona infectada estornuda, tose o se suena la nariz cerca de usted y libera el virus en el aire (infección por vía aérea)",
+      "Usted toca, abraza, da la mano o besa a una persona infectada"
+    ],
+    "síntomas": [
+      "Los coronavirus humanos que causan el resfriado común se propagan de persona a persona. Los síntomas se desarrollan entre 2 y 14 días. Estos incluyen:",
+      "Secreción nasal",
+      "Dolor de garganta",
+      "Estornudos",
+      "Congestión nasal",
+      "Fiebre, a menudo con escalofríos",
+      "Dolor de cabeza",
+      "Dolor en el cuerpo",
+      "Tos",
+      "La exposición a los virus MERS-CoV, SARS-CoV y SARS-CoV-2 puede causar síntomas graves. Estos incluyen:",
+      "Náuseas y vómitos",
+      "Dificultad para respirar",
+      "Diarrea",
+      "Tos con sangre",
+      "Muerte",
+      "La infección grave por coronavirus puede causar:",
+      "Crup",
+      "Neumonía",
+      "Bronquiolitis",
+      "Bronquitis",
+      "Los síntomas pueden ser graves en ciertas personas:",
+      "Niños",
+      "Adultos mayores",
+      "Personas con afecciones crónicas como diabetes, cáncer, enfermedad renal crónica, enfermedad cardíaca, o infección por VIH",
+      "Personas con enfermedades respiratorias como asma o EPOC"
+    ],
+    "pruebas y exámenes": [
+      "Su proveedor de atención médica puede tomar una muestra de lo siguiente para pruebas de laboratorio:",
+      "Muestra con hisopo nasal (de las fosas nasales) o muestra de garganta para una prueba de la reacción en cadena de la polimerasa (PCR) para SARS-CoV-2 u otros virus",
+      "Exámenes de sangre",
+      "Cultivo de esputo",
+      "En algunos casos, también se pueden tomar muestras de heces y orina.",
+      "Usted puede necesitar exámenes adicionales si su infección es grave. Estos exámenes pueden incluir:",
+      "Exámenes de química sanguínea",
+      "Radiografía de tórax o tomografía computarizada del tórax",
+      "Conteo sanguíneo completo (CSC)",
+      "Los exámenes de diagnóstico pueden no estar disponibles para todos los tipos de coronavirus."
+    ],
+    "tratamiento": [
+      "En este momento, no hay un tratamiento específico para la infección por coronavirus, salvo para el SARS-CoV-2. Para una infección por coronavirus que no se deba al SARS-CoV-2, se administran medicamentos solo para aliviar los síntomas. A veces se utilizan tratamientos experimentales en casos graves.",
+      "Las infecciones leves por coronavirus, como el resfriado común, desaparecerán en pocos días con descanso y cuidados personales en casa.",
+      "Si se sospecha que usted tiene una infección grave por coronavirus y está recibiendo tratamiento en el hospital, es posible que:",
+      "Tenga que usar una mascarilla facial",
+      "Esté en una habitación aislada o en la UCI para recibir tratamiento",
+      "El tratamiento para infecciones graves puede incluir:",
+      "Antibióticos, solo si usted también tiene neumonía bacteriana",
+      "Medicamentos antivirales",
+      "Esteroides",
+      "Oxígeno, asistencia respiratoria (ventilación mecánica) o terapia respiratoria",
+      "El tratamiento de la COVID-19, la enfermedad por SARS-CoV-2, puede involucrar medicamentos antivirales adicionales."
+    ],
+    "expectativas (pronóstico)": [
+      "Los resfriados comunes causados por coronavirus usualmente se curan por sí solos. Las infecciones graves por coronavirus pueden requerir hospitalización y asistencia respiratoria. En muy pocas ocasiones, ciertas infecciones graves por coronavirus pueden provocar la muerte, especialmente en personas mayores, niños o personas con afecciones crónicas."
+    ],
+    "posibles complicaciones": [
+      "Las infecciones por coronavirus pueden llevar a bronquitis o neumonía. Algunas formas graves pueden causar insuficiencia orgánica, e incluso la muerte. La infección con SARS-CoV-2 puede provocar COVID prolongado (también denominado secuelas post-agudas de COVID-19) en algunas personas."
+    ],
+    "cuándo contactar a un profesional médico": [
+      "Comuníquese con su proveedor si usted ha:",
+      "Estado en contacto con una persona con una infección grave por coronavirus",
+      "Viajado a un lugar que tuvo un brote de una infección por coronavirus y ha desarrollado síntomas de resfriado común, dificultad respiratoria, náuseas o diarrea"
+    ],
+    "prevención": [
+      "Siga estos pasos para disminuir su riesgo de infección:",
+      "Evite el contacto con personas que tengan una infección por coronavirus.",
+      "Evite viajar a lugares donde haya un brote de infección por coronavirus.",
+      "Lávese sus manos de manera apropiada o límpielas con un desinfectante para manos a base de alcohol.",
+      "Cubra su boca y nariz con un pañuelo desechable o la manga (no con sus manos) cuando estornude o tosa y deseche el pañuelo.",
+      "No comparta comida, bebidas o utensilios.",
+      "Limpie las superficies que se tocan comúnmente con un desinfectante.",
+      "Existen vacunas que pueden prevenir la enfermedad grave con COVID-19. Comuníquese con su departamento de salud local para averiguar sobre la disponibilidad en su área. La información sobre las vacunas contra la COVID-19 está disponible en los Centros para el Control y la Prevención de Enfermedades en www.cdc.gov/covid/vaccines/index.html.",
+      "Si va a viajar, hable con su proveedor acerca de:",
+      "Tener las vacunas al día",
+      "Usar kits de autopruebas",
+      "Llevar medicamentos"
+    ],
+    "nombres alternativos": [
+      "Coronavirus - SARS; Coronavirus - 2019-nCoV; Coronavirus - COVID-19; Coronavirus - síndrome respiratorio agudo grave; Coronavirus - síndrome respiratorio de Oriente Medio; Coronavirus - MERS"
+    ],
+    "imágenes": [
+      "Coronavirus",
+      "Neumonía",
+      "Síntomas del resfriado",
+      "Sistema respiratorio",
+      "Tracto respiratorio superior",
+      "Tracto respiratorio inferior"
+    ],
+    "referencias": [
+      "Centers for Disease Control and Prevention website. About COVID-19. www.cdc.gov/covid/about/. Updated June13, 2024. Accessed August 21, 2024.",
+      "Havers FP, Kirking H, Plumb ID. PRE-2019 coronaviruses. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 334.",
+      "Perlman S, McIntosh K. Coronaviruses, including severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). In: Bennett JE, Dolin R, Blaser MJ eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 155.",
+      "World Health Organization website. Coronavirus disease (COVID-19). www.who.int/health-topics/coronavirus#tab=tab_1. Accessed August 21, 2024."
+    ],
+    "ultima revisión 2/22/2023": [
+      "Versión en inglés revisada por: Frank D. Brodkey, MD, FCCM, Associate Professor, Section of Pulmonary and Critical Care Medicine, University of Wisconsin School of Medicine and Public Health, Madison, WI. Internal review and update on 07/16/2024 by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team",
+      "Traducción y localización realizada por: DrTango, Inc.",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "titulo": "Pruebas de tolerancia a la lactosa",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Son exámenes que miden la capacidad de los intestinos para descomponer un tipo de azúcar llamado lactosa. El azúcar se encuentra en la leche y otros productos lácteos. Si el cuerpo no puede descomponer este azúcar, se dice que uno tiene intolerancia a la lactosa. Esto puede causar flatulencia, dolor abdominal, cólicos y diarrea."
+    ],
+    "forma en que se realiza el examen": [
+      "Dos métodos comunes comprenden:",
+      "Prueba de sangre para intolerancia a la lactosa",
+      "Prueba de hidrógeno en el aliento",
+      "La prueba de hidrógeno en el aliento es el método preferido. Este método mide la cantidad de hidrógeno en el aire que usted exhala.",
+      "A usted se le pide respirar dentro de un recipiente tipo globo.",
+      "Luego, beberá un líquido saborizado que contiene lactosa.",
+      "Las muestras de la respiración se toman en períodos de tiempo predeterminados y se verifica el nivel de hidrógeno.",
+      "Normalmente, hay muy poco hidrógeno en la respiración; pero si su cuerpo tiene problemas para descomponer y absorber la lactosa, los niveles de hidrógeno en el aliento se incrementan.",
+      "La prueba de sangre para intolerancia a la lactosa busca la presencia de glucosa en la sangre. El cuerpo produce glucosa cuando la lactosa se descompone.",
+      "Para esta prueba, se tomarán varias muestras de sangre antes y después de que usted beba un líquido que contiene lactosa.",
+      "Se tomará una muestra de sangre de una vena en el brazo (venopunción)."
+    ],
+    "preparación para el examen": [
+      "No debe comer nada ni hacer ejercicio vigoroso durante 8 horas antes del examen."
+    ],
+    "lo que se siente durante el examen": [
+      "No debe presentarse dolor ni molestia al dar una muestra de aliento.",
+      "Cuando se introduce la aguja para extraer la sangre, algunas personas sienten un ligero dolor, mientras que otras solo sienten un pinchazo o sensación de picadura. Posteriormente, puede haber algo de sensación pulsátil."
+    ],
+    "razones por las que se realiza el examen": [
+      "Su proveedor de atención médica puede solicitar estas pruebas si usted tiene signos de intolerancia a la lactosa."
+    ],
+    "resultados normales": [
+      "La prueba del aliento se considera normal si el incremento en el hidrógeno es menor a 20 partes por millón (ppm) sobre el nivel en ayunas (antes del examen).",
+      "La prueba de sangre se considera normal si el nivel de glucosa se eleva más de 30 mg/dL (1.6 mmol/L) dentro de las 2 horas siguientes a la ingestión de la solución de lactosa. Un aumento de 20 a 30 mg/dL (1.1 a 1.6 mmol/L) no es concluyente.",
+      "Nota: los rangos de los valores normales pueden variar ligeramente entre diferentes laboratorios. Hable con su proveedor acerca del significado de los resultados específicos de su examen.",
+      "Los ejemplos anteriores muestran las mediciones comunes para los resultados de estas pruebas. Algunos laboratorios usan diferentes mediciones o pueden evaluar diferentes muestras."
+    ],
+    "significado de los resultados anormales": [
+      "Los resultados anormales pueden ser un signo de intolerancia a la lactosa.",
+      "El resultado de una prueba del aliento que muestre una elevación en el contenido de hidrógeno de 120 ppm sobre el nivel antes de la prueba se considera una prueba positiva. Esto significa que uno puede tener problemas para descomponer la lactosa.",
+      "La prueba de sangre se considera anormal si el nivel de glucosa se eleva menos de 20 mg/dL (1.1 mmol/L) dentro de las 2 horas siguientes a la ingestión de la solución de lactosa.",
+      "Una prueba anormal debe estar seguida de una prueba de tolerancia a la glucosa. Esto descartará un problema con la capacidad del cuerpo para absorberla."
+    ],
+    "riesgos": [
+      "Existe muy poco riesgo a raíz de la extracción de sangre. Las venas y las arterias varían en tamaño de una persona a otra y de un lado del cuerpo a otro. Extraer sangre de algunas personas puede ser más difícil que de otras.",
+      "Otros riesgos asociados con la extracción de sangre son leves, pero pueden incluir:",
+      "Desmayo o sensación de mareo",
+      "Punciones múltiples para localizar las venas",
+      "Hematoma (acumulación de sangre debajo de la piel)",
+      "Sangrado excesivo",
+      "Infección (un riesgo leve cada vez que se rompe la piel)"
+    ],
+    "nombres alternativos": [
+      "Prueba de hidrógeno en el aliento para intolerancia a la lactosa"
+    ],
+    "imágenes": [
+      "Examen de sangre"
+    ],
+    "referencias": [
+      "Floch MH. Lactose, fructose, and sucrose intolerance. In: Floch MH, ed. Netter's Gastroenterology. 3rd ed. Philadelphia, PA: Elsevier; 2020:chap 63.",
+      "Höegenauer C, Hammer HF. Maldigestion and malabsorption. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 104.",
+      "Semrad CE. Approach to the patient with diarrhea and malabsorption. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 126."
+    ],
+    "ultima revisión 8/12/2024": [
+      "Versión en inglés revisada por: Jenifer K. Lehrer, MD, Gastroenterologist, Philadelphia, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Intolerancia a la lactosa",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

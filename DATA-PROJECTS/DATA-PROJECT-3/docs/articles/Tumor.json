@@ -1,0 +1,132 @@
+{
+  "titulo": "Tumor",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es una masa anormal de tejido corporal. Los tumores pueden ser cancerosos (malignos) o no cancerosos (benignos)."
+    ],
+    "causas": [
+      "En general, los tumores ocurren cuando las células se dividen y se multiplican excesivamente en el cuerpo. Normalmente, el cuerpo controla la división y el crecimiento de las células. Se crean nuevas células para reemplazar a las viejas o para desempeñar nuevas funciones. Las células que están dañadas o que ya no se necesitan mueren para dar paso a las células de reemplazo sanas.",
+      "Si se altera el equilibrio de división y muerte celular, se puede formar un tumor.",
+      "Los problemas con el sistema inmunitario del cuerpo pueden llevar a que se presenten tumores. El tabaco causa más muertes por cáncer que cualquier otra sustancia ambiental. Otros factores de riesgo que predisponen al cáncer incluyen:",
+      "Benceno y otros químicos y toxinas",
+      "Consumo excesivo de alcohol",
+      "Toxinas ambientales, como ciertos hongos venenosos y un tipo de tóxico que puede formarse en las plantas de cacahuete (aflatoxinas)",
+      "Exposición excesiva a la luz solar",
+      "Problemas genéticos",
+      "Obesidad",
+      "Exposición a la radiación",
+      "Virus",
+      "Los tipos de tumores que se sabe son causados por o están asociados con virus son:",
+      "Linfoma de Burkitt (Virus de Epstein-Barr)",
+      "Cáncer de cuello uterino (virus del papiloma humano, también llamado VPH)",
+      "La mayoría de cánceres anales (VPH)",
+      "Algunos cánceres de la garganta, incluyendo del velo del paladar, la base de la lengua y las amígdalas (VPH)",
+      "Algunos cánceres vaginales, de la vulva y del pene (VPH)",
+      "Algunos cánceres del hígado (virus de la hepatitis B y hepatitis C)",
+      "Sarcoma de Kaposi (herpesvirus 8 humano)",
+      "Leucemia/linfoma de células T del adulto (virus linfotrófico T humano tipo 1)",
+      "Carcinoma de células de Merkel (poliomavirus de células de Merkel)",
+      "Cáncer nasofaríngeo (Virus de Epstein-Barr)",
+      "Linfoma no Hodgkin y sarcoma de Kaposi (VIH)",
+      "Algunos tumores son más comunes en un sexo que en el otro. Otros tumores son más comunes en los niños o en los adultos mayores. Otros están relacionados con la dieta, el medio ambiente y los antecedentes familiares."
+    ],
+    "síntomas": [
+      "Los síntomas dependen del tipo y localización del tumor. Por ejemplo, los tumores en el pulmón pueden ocasionar tos, dificultad respiratoria o dolor torácico. Los tumores del colon pueden causar pérdida de peso, diarrea, estreñimiento, anemia ferropénica y sangre en las heces.",
+      "Es posible que algunos tumores no provoquen síntomas. Otros, como el cáncer esofágico o pancreático, PUEDE NO causar síntomas hasta que la enfermedad haya alcanzado un estadio avanzado.",
+      "Los siguientes síntomas pueden ocurrir con los tumores:",
+      "Fiebre y escalofríos",
+      "Fatiga",
+      "Pérdida del apetito",
+      "Sudores nocturnos",
+      "Pérdida de peso",
+      "Dolor"
+    ],
+    "pruebas y exámenes": [
+      "El proveedor de atención médica podría observar un tumor, como el cáncer de piel o bucal. Sin embargo, la mayoría de los cánceres no se pueden ver durante un examen debido a que están localizados en lo profundo del cuerpo.",
+      "Cuando se encuentra un tumor, se extrae un trozo de tejido y se examina bajo un microscopio. Esto se denomina biopsia. Esta se hace para determinar si el tumor es canceroso (maligno) o no canceroso (benigno). Según la ubicación del tumor, la biopsia puede ser un procedimiento simple o una operación seria.",
+      "Una tomografía computarizada (TC) o una resonancia magnética (RM) puede ayudar a determinar la ubicación exacta del tumor y qué tan lejos se ha diseminado. Se usa otro examen imagenológico llamado tomografía por emisión de positrones (TEP) para encontrar ciertos tipos de tumores.",
+      "Otros exámenes que se pueden hacer incluyen:",
+      "Exámenes de sangre",
+      "Biopsia de médula ósea (muy a menudo para leucemia o linfoma)",
+      "Radiografía de tórax",
+      "Conteo sanguíneo completo (CSC)",
+      "Pruebas de la función hepática"
+    ],
+    "tratamiento": [
+      "El tratamiento varía con base en:",
+      "El tipo de tumor",
+      "Si es o no canceroso",
+      "Su localización",
+      "Es posible que no se necesite tratamiento si el tumor:",
+      "No es canceroso (es benigno).",
+      "Está ubicado en un área \"segura\" donde no ocasionará síntomas ni problemas con la forma como funciona el órgano.",
+      "Algunas veces, los tumores benignos se pueden extirpar por razones estéticas o para mejorar los síntomas. Los tumores benignos del cerebro se pueden extirpar, debido a su localización o efecto dañino sobre el tejido cerebral circundante y normal.",
+      "Si un tumor es canceroso, los posibles tratamientos incluyen:",
+      "Quimioterapia",
+      "Radiación",
+      "Cirugía",
+      "Terapia dirigida al cáncer",
+      "Inmunoterapia",
+      "Otras opciones de tratamiento"
+    ],
+    "grupos de apoyo": [
+      "Un diagnóstico de cáncer con frecuencia causa mucha ansiedad y puede afectar la vida entera de una persona. Existen numerosos recursos para pacientes con cáncer."
+    ],
+    "expectativas (pronóstico)": [
+      "El pronóstico varía enormemente para los diferentes tipos de tumores. Si el tumor es benigno, el pronóstico generalmente es muy bueno. Sin embargo, a veces un tumor benigno puede ocasionar problemas graves, como por ejemplo en o cerca del cerebro.",
+      "Si el tumor es canceroso, el desenlace clínico depende del tipo y la estadio del tumor al momento del diagnóstico. Algunos cánceres se pueden curar. Algunos que son incurables aún se les puede hacer un tratamiento y las personas pueden vivir muchos años con el cáncer. Sin embargo, otros tumores son potencialmente mortales de una manera rápida. Su proveedor de atención médica o especialista en cáncer (oncólogo) le ayudará a recibir el apoyo educativo y emocional que necesita durante esta etapa difícil."
+    ],
+    "nombres alternativos": [
+      "Masa; Neoplasia"
+    ],
+    "referencias": [
+      "Burstein E. Cellular growth and neoplasia. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and Fordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 1.",
+      "National Cancer Institute website. Symptoms of cancer. www.cancer.gov/about-cancer/diagnosis-staging/symptoms. Updated May 16, 2019. Accessed July 29, 2024.",
+      "Park BH. Cancer biology and genetics. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 166.",
+      "Walsh MF. Cancer genetics and genomics. In: Cohn RD, Scherer SW, Hamosh A, eds. Thompson & Thompson Genetics and Genomics in Medicine. 9th ed. Philadelphia, PA: Elsevier; 2024:chap 16."
+    ],
+    "ultima revisión 7/15/2024": [
+      "Versión en inglés revisada por: Frank D. Brodkey, MD, FCCM, Associate Professor, Section of Pulmonary and Critical Care Medicine, University of Wisconsin School of Medicine and Public Health, Madison, WI. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Cáncer",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

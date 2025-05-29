@@ -1,0 +1,108 @@
+{
+  "titulo": "Factor reumatoideo (FR)",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un análisis de sangre que mide la cantidad de anticuerpo del factor reumatoideo (FR) en la sangre."
+    ],
+    "forma en que se realiza el examen": [
+      "La mayoría de las veces, la sangre se extrae típicamente de una vena localizada en la parte interior del codo o el dorso de la mano.",
+      "En bebés o en niños pequeños, se puede utilizar un instrumento puntiagudo llamado lanceta para punzar la piel.",
+      "La sangre se recoge en un tubo pequeño de vidrio llamado pipeta, en un portaobjetos o en una tira reactiva.",
+      "Se coloca un vendaje sobre el sitio para detener cualquier sangrado."
+    ],
+    "preparación para el examen": [
+      "No se requiere tomar pasos especiales antes de este examen."
+    ],
+    "lo que se siente durante el examen": [
+      "Usted puede sentir un ligero dolor o una picadura cuando se introduce la aguja. También puede experimentar una sensación pulsátil en el sitio después de que se extrae la sangre."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen se usa con mayor frecuencia para el diagnóstico de la artritis reumatoidea o el síndrome de Sjögren."
+    ],
+    "resultados normales": [
+      "Los resultados generalmente se reportan en una de dos formas:",
+      "Valor, normal es menos de 15 IU/mL",
+      "Título, normal menor de 1:80 (de 1 a 80)",
+      "Si el resultado está por encima del valor normal, entonces es positivo. Un número bajo (resultado negativo) casi siempre significa que usted no tiene artritis reumatoidea ni el síndrome de Sjögren. Sin embargo, algunas personas que en realidad padecen estas afecciones de todos modos tienen un FR negativo o bajo.",
+      "Los rangos de los valores normales pueden variar ligeramente entre diferentes laboratorios. Hable con su proveedor de atención médica acerca del significado de los resultados específicos de su examen."
+    ],
+    "significado de los resultados anormales": [
+      "Un resultado anormal significa que el examen es positivo, lo cual quiere decir que se han detectado niveles más altos del FR en su sangre.",
+      "Muchas personas con artritis reumatoidea o con el síndrome de Sjögren obtienen resultados positivos en los exámenes de FR.",
+      "Cuanto más alto sea el nivel, mayor será la probabilidad de que se presente una de estas afecciones. También hay otras pruebas que se pueden hacer que ayudan a hacer el diagnóstico.",
+      "No toda persona con niveles más altos de FR tiene artritis reumatoidea o síndrome de Sjögren.",
+      "Su proveedor debe hacer otro examen de sangre (anticuerpo antipéptido cíclico citrulinado o anticuerpo anti-PCC) para ayudar a diagnosticar la artritis reumatoidea (AR). El anticuerpo anti-PCC es más específico para la AR que el FR. Un examen positivo para anticuerpos PCC significa que la AR es probablemente el diagnóstico correcto.",
+      "Las personas con las siguientes enfermedades también pueden tener niveles más altos de FR.",
+      "Hepatitis C",
+      "Lupus eritematoso sistémico",
+      "Dermatomiositis y polimiositis",
+      "Sarcoidosis",
+      "Crioglobulinemia mixta",
+      "Enfermedad mixta del tejido conectivo",
+      "Los niveles de FR superiores a los normales se pueden ver en personas con otros problemas de salud. Sin embargo, dichos niveles más altos de FR no se usan para diagnosticar estas otras afecciones:",
+      "Sida, hepatitis, influenza, mononucleosis infecciosa y otras infecciones virales",
+      "Ciertas enfermedades del riñón",
+      "Endocarditis, tuberculosis y otras infecciones bacterianas",
+      "Infecciones parasitarias",
+      "Leucemia, mieloma múltiple y otros cánceres",
+      "Enfermedad pulmonar crónica",
+      "Enfermedad crónica del hígado",
+      "En algunos casos, las personas que son saludables y no tienen ningún otro problema de salud tendrán un nivel de FR superior a lo normal."
+    ],
+    "imágenes": [
+      "Examen de sangre"
+    ],
+    "referencias": [
+      "Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis classification criteria: an American College of Rheumatology/European League Against Rheumatism collaborative initiative. Ann Rheum Dis. 2010;69(9):1580-1588. PMID: 20699241 pubmed.ncbi.nlm.nih.gov/20699241/.",
+      "Darrah E, Rosen A, Andrade F. Autoantibodies in rheumatoid arthritis. In: Firestein GS, Budd RC, Gabriel SE, Koretzky GA, McInnes IB, O'Dell JR, eds. Firestein & Kelley's Textbook of Rheumatology. 11th ed. Philadelphia, PA: Elsevier; 2021:chap 59.",
+      "Sieghart D, Trouw L, Steiner G. Autoantibodies in rheumatoid arthritis. In: Hochberg MC, Gravallese EM, Smolen JS, van der Heijde D, Weinblatt ME, Weisman MH, eds. Rheumatology. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 96.",
+      "Mason JC. Rheumatic diseases and the cardiovascular system. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 97.",
+      "Pisetsky DS. Laboratory testing in the rheumatic diseases. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 242."
+    ],
+    "ultima revisión 4/30/2023": [
+      "Versión en inglés revisada por: Neil J. Gonter, MD, Assistant Professor of Medicine, Columbia University, New York, NY, and private practice specializing in Rheumatology at Rheumatology Associates of North Jersey, Teaneck, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Artritis juvenil",
+      "Artritis reumatoide",
+      "Síndrome de Sjögren",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

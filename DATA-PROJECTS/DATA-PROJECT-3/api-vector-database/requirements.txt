@@ -1,0 +1,9 @@
+flask
+openai
+requests
+langchain
+langchain-postgres
+python-dotenv
+langchain_openai
+google-cloud-storage
+pycopg

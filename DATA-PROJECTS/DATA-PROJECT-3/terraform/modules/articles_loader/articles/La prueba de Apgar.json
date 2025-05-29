@@ -1,0 +1,113 @@
+{
+  "titulo": "La prueba de Apgar",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "La prueba de Apgar es un examen rápido que se realiza al primer y quinto minuto después del nacimiento del bebé. El puntaje en el minuto 1 determina qué tan bien toleró el bebé el proceso de nacimiento. El puntaje al minuto 5 le indica al proveedor de atención médica qué tan bien está evolucionando el bebé por fuera del vientre materno. También ayuda a medir qué tan bien responde el bebé si se necesita resucitación justo después del nacimiento.",
+      "En casos poco comunes, el examen se realizará 10 minutos después del nacimiento.",
+      "Virginia Apgar, MD (1909-1974), comenzó a utilizar el puntaje Apgar en 1952."
+    ],
+    "forma en que se realiza el examen": [
+      "La prueba de Apgar la realiza un médico, una enfermera obstétrica (comadrona) o una enfermera. El proveedor de atención médica examina en el bebé:",
+      "Esfuerzo respiratorio",
+      "Frecuencia cardíaca",
+      "Tono muscular",
+      "Reflejos",
+      "Color de la piel",
+      "A cada una de estas categorías se le da un puntaje de 0, 1 o 2 según el estado observado.",
+      "Esfuerzo respiratorio:",
+      "Si el bebé no está respirando, el puntaje es 0.",
+      "Si las respiraciones son lentas o irregulares, el puntaje del bebé es 1 en esfuerzo respiratorio.",
+      "Si el bebé llora bien, el puntaje respiratorio es 2.",
+      "La frecuencia cardíaca se evalúa con el estetoscopio. Esta es la evaluación más importante.",
+      "Si no hay latidos cardíacos, el puntaje del bebé es 0 en frecuencia cardíaca.",
+      "Si la frecuencia cardíaca es menor de 100 latidos por minuto, el puntaje del bebé es 1 en frecuencia cardíaca.",
+      "Si la frecuencia cardíaca es superior a 100 latidos por minuto, el puntaje del bebé es 2 en frecuencia cardíaca.",
+      "Tono muscular:",
+      "Si los músculos están flojos y flácidos, el puntaje del bebé es 0 en tono muscular.",
+      "Si hay algo de tono muscular, el puntaje del bebé es 1.",
+      "Si hay movimiento activo, el puntaje del bebé es 2 en tono muscular.",
+      "Respuesta a las gesticulaciones (muecas) o reflejo de irritabilidad es un término que describe la respuesta a la estimulación, como un leve pinchazo:",
+      "Si no hay reacción, el puntaje del bebé es 0 en reflejo de irritabilidad.",
+      "Si hay gesticulaciones o muecas, el puntaje del bebé es 1 en reflejo de irritabilidad.",
+      "Si hay gesticulaciones y una tos, estornudo o llanto vigoroso, el puntaje del bebé es 2 en reflejo de irritabilidad.",
+      "Color de la piel:",
+      "Si el color de la piel es azul pálido, el puntaje del bebé es 0 en color.",
+      "Si el cuerpo del bebé es rosado y las extremidades son azules, el puntaje es 1 en color.",
+      "Si todo el cuerpo del bebé es rosado, el puntaje es 2 en color."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen se hace para determinar si un recién nacido necesita ayuda con la respiración o está teniendo problemas cardíacos."
+    ],
+    "resultados normales": [
+      "El examen de Apgar se basa en un puntaje total de 1 a 10. Cuanto más alto sea el puntaje, mejor será la evolución del bebé después de nacer.",
+      "Un puntaje de 7, 8 o 9 es normal y es una señal de que el recién nacido está bien de salud. Un puntaje de 10 es muy inusual, ya que casi todos los recién nacidos pierden un punto por pies y manos azulados, lo cual es normal después del nacimiento."
+    ],
+    "significado de los resultados anormales": [
+      "Cualquier puntaje inferior a 7 es una señal de que el bebé necesita atención médica. Cuanto más bajo es el puntaje, mayor ayuda necesita el bebé para adaptarse fuera del vientre materno.",
+      "Casi siempre un puntaje de Apgar bajo es causado por:",
+      "Un parto difícil",
+      "Cesárea",
+      "Líquido en la vía respiratoria del bebé",
+      "Un bebé con un puntaje de Apgar bajo puede necesitar:",
+      "Oxígeno y despejar las vías respiratorias para ayudar con la respiración.",
+      "Estimulación física para lograr que el corazón palpite a una tasa saludable.",
+      "La mayoría de las veces, un puntaje bajo al minuto 1 está cerca de lo normal hacia los 5 minutos.  Los puntajes Apgar usualmente no se toman después de 5 minutos.",
+      "Una calificación baja en la prueba de Apgar no significa que el bebé tendrá problemas de salud graves o crónicos. La prueba de Apgar no está diseñada para predecir problemas de salud futuros en el bebé.",
+      "Si un puntaje Apgar es menor de 7 en un rango de cinco minutos, algunos proveedores lo verificarán unos pocos minutos después para evaluar el efecto de cualquier acción realizada para corregir cualquier inquietud respiratoria o cardíaca. Si se verifica de nuevo, normalmente se detiene una vez que el puntaje Apgar haya alcanzado el 7."
+    ],
+    "nombres alternativos": [
+      "Puntuación del recién nacido; Nacimiento - Apgar"
+    ],
+    "imágenes": [
+      "Cuidado del neonato después del parto",
+      "Examen del recién nacido"
+    ],
+    "referencias": [
+      "Arulkumaran S. Fetal surveillance in labor. In: Arulkumaran SS, Robson MS, eds. Munro Kerr's Operative Obstetrics. 13th ed. Philadelphia, PA: Elsevier; 2020:chap 9.",
+      "Goyal NK. The newborn infant. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 113."
+    ],
+    "ultima revisión 10/22/2022": [
+      "Versión en inglés revisada por: Charles I. Schwartz MD, FAAP, Clinical Assistant Professor of Pediatrics, Perelman School of Medicine at the University of Pennsylvania, General Pediatrician at PennCare for Kids, Phoenixville, PA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Evaluación del recién nacido",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

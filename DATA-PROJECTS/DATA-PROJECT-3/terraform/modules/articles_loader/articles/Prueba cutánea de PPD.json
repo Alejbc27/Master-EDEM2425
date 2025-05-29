@@ -1,0 +1,116 @@
+{
+  "titulo": "Prueba cutánea de PPD",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "La prueba cutánea de derivado proteico purificado (PPD, por sus siglas en inglés) es un método utilizado para el diagnóstico de la infección de tuberculosis (TB) silenciosa (latente)."
+    ],
+    "forma en que se realiza el examen": [
+      "Usted necesitará dos visitas al consultorio del proveedor de atención médica para este examen.",
+      "En la primera visita, el proveedor limpiará una zona de su piel, por lo regular la parte interna del antebrazo. Le aplicará una pequeña inyección que contiene PPD. La aguja se coloca suavemente debajo de la capa cutánea superior, provocando la formación de una protuberancia (roncha) en la piel. Esto por lo regular desaparece en unas cuantas horas a medida que el material se absorbe.",
+      "Después de 48 a 72 horas, usted debe volver al consultorio de su proveedor (en algunos casos, esto se puede hacer virtualmente). Su proveedor revisará la zona para ver si ha tenido una reacción fuerte a la prueba."
+    ],
+    "preparación para el examen": [
+      "No hay una preparación especial para esta prueba.",
+      "Coméntele a su proveedor si alguna vez ha tenido una prueba cutánea de PPD positiva. De ser así, esta no se debe repetir, excepto bajo circunstancias inusuales.",
+      "Igualmente infórmele al proveedor si tiene una afección o si toma ciertos fármacos, como esteroides, que pueden afectar su sistema inmunitario. Estas situaciones pueden llevar a que se presenten resultados imprecisos en la prueba.",
+      "Coméntele al proveedor si usted ha recibido la vacuna BCG (antituberculosa) y, de ser así, cuándo fue. (Esta vacuna solo se administra afuera de los Estados Unidos)."
+    ],
+    "lo que se siente durante el examen": [
+      "Se sentirá una picadura breve a medida que la aguja se introduzca justo debajo de la superficie de la piel."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen se hace para determinar si usted alguna vez ha estado en contacto con la bacteria que causa la TB.",
+      "La TB es una enfermedad que se propaga fácilmente (contagiosa). Con mayor frecuencia afecta los pulmones. Las bacterias pueden permanecer inactivas (latentes) en los pulmones durante muchos años. Esta situación se llama TB latente.",
+      "La mayoría de las personas en los Estados Unidos que están infectadas con la bacteria no tiene signos ni síntomas de la TB activa.",
+      "Usted tiene mayor probabilidad de necesitar este examen si:",
+      "Puede haber estado cerca de alguien con TB",
+      "Trabaja en el campo de la salud",
+      "Tiene un sistema inmunitario debilitado, debido a ciertos medicamentos o enfermedades (como el cáncer o el VIH/sida)"
+    ],
+    "resultados normales": [
+      "Una reacción negativa por lo general significa que usted nunca ha estado infectado con la bacteria que causa la tuberculosis.",
+      "En caso de una reacción negativa, la piel donde le hicieron la prueba de PPD no está hinchada o la hinchazón es muy pequeña. El tamaño de la hinchazón se interpreta de forma diferente en niños, personas con VIH y otros grupos en alto riesgo.",
+      "La prueba cutánea de PPD no es una prueba de detección perfecta. Es posible que algunas personas infectadas con la bacteria que causa la tuberculosis no tengan una reacción. Además, las enfermedades o los medicamentos que debilitan el sistema inmunitario pueden causar un resultado negativo falso."
+    ],
+    "significado de los resultados anormales": [
+      "Un resultado anormal (positivo) significa que usted ha sido infectado con la bacteria que causa la TB. Es posible que necesite tratamiento para reducir el riesgo de que la enfermedad reaparezca (reactivación de la enfermedad). Un examen cutáneo positivo no significa que una persona tenga TB activa. Se deben hacer más exámenes para verificar si hay enfermedad activa.",
+      "Una reacción pequeña (5 mm o más de hinchazón firme en el sitio) se considera positiva en personas que:",
+      "Tienen VIH/sida",
+      "Han recibido un trasplante de órgano",
+      "Tienen un sistema inmunitario debilitado o están tomando terapia con esteroides (aproximadamente 15 mg de prednisona por día durante 1 mes)",
+      "Han estado en contacto cercano con una persona que tiene TB activa",
+      "Presentan cambios en una radiografía de tórax que lucen como una TB pasada.",
+      "Las reacciones más grandes (10 mm o más) se consideran positivas en:",
+      "Personas con un examen negativo conocido en los últimos 2 años",
+      "Personas con diabetes, insuficiencia renal u otras afecciones que incrementan su probabilidad de contraer TB activa",
+      "Trabajadores de la salud",
+      "Consumidores de drogas inyectables",
+      "Inmigrantes que se han trasladado desde un país con una alta tasa de TB en los últimos 5 años",
+      "Niños menores de 4 años",
+      "Bebés, niños o adolescentes que están expuestos a adultos de alto riesgo",
+      "Estudiantes y empleados de ciertos ambientes de vida en grupo, como prisiones, asilos de ancianos y refugios para personas sin hogar",
+      "En personas que no tienen riesgos conocidos de TB, 15 mm o más de hinchazón firme en el sitio son indicios de una reacción positiva.",
+      "Las personas que hayan nacido fuera de los Estados Unidos que hayan recibido la vacuna BCG pueden tener un resultado falso positivo en el examen."
+    ],
+    "riesgos": [
+      "Existe un riesgo muy pequeño para enrojecimiento e inflamación graves del brazo en personas que hayan tenido previamente una prueba positiva de PPD y que se hagan la prueba de nuevo. En general, las personas que han tenido una prueba positiva en el pasado no deben volver a analizarse. Esta reacción también se puede presentar en unas cuantas personas que no hayan sido examinadas antes."
+    ],
+    "nombres alternativos": [
+      "Derivado proteico purificado estándar; Prueba cutánea de TB; Prueba cutánea con tuberculina; Prueba de Mantoux"
+    ],
+    "imágenes": [
+      "Tuberculosis renal",
+      "Tuberculosis pulmonar",
+      "Prueba cutánea de PPD positiva",
+      "Examen cutáneo de PPD"
+    ],
+    "referencias": [
+      "Centers for Disease Control and Prevention website. Tuberculosis (TB). About tuberculosis. www.cdc.gov/tb/about/index.html. Reviewed December 19, 2023. Accessed June 25, 2024.",
+      "Fitzgerald DW, Sterling TR, Haas DW. Mycobacterium tuberculosis. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 249.",
+      "Rodino KG, Woods GL, Wengenack NL. Mycobacteria. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 59."
+    ],
+    "ultima revisión 12/31/2023": [
+      "Versión en inglés revisada por: Jatin M. Vyas, MD, PhD, Associate Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 06/25/2024.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Tuberculosis",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

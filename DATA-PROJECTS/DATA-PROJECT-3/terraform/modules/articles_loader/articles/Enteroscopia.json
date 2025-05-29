@@ -1,0 +1,137 @@
+{
+  "titulo": "Enteroscopia",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un procedimiento empleado para examinar el intestino delgado."
+    ],
+    "forma en que se realiza el examen": [
+      "Un enteroscopio utiliza un tubo largo y flexible con un globo y una cámara adjunta que puede penetrar profundamente en el interior del intestino delgado.",
+      "Durante una enteroscopia de doble balón, los balones o globos adheridos al endoscopio se pueden inflar para permitir que el médico observe una sección del intestino delgado. El enteroscopio generalmente se inserta por la boca para la enteroscopia superior.",
+      "En una colonoscopia, se introduce una sonda flexible a través del recto y el colon. La sonda generalmente puede llegar hasta el extremo terminal del intestino delgado (íleon). En ocasiones, se introduce un enteroscopio a través del recto para llegar más al final del intestino delgado.",
+      "La endoscopia por cápsula se realiza con una cápsula desechable que usted ingiere. Esto transmite imágenes a una grabadora y se carga en una computadora para ver las imágenes.",
+      "Las muestras de tejido obtenidas durante la enteroscopia se envían al laboratorio para su análisis. (Las biopsias no se pueden tomar con una endoscopia por cápsula)."
+    ],
+    "preparación para el examen": [
+      "Coméntele al médico que le hace la endoscopía si toma anticoagulantes, como warfarina (Coumadin), clopidogrel (Plavix), apixaban (Eliquis), acido acetilsalicilico (aspirin) o AINEs diario debido a que pueden interferir con el examen. No deje de tomar ningún medicamento, a menos que así lo indique su médico o proveedor de atención médica.",
+      "No coma ningún alimento sólido ni productos lácteos después de medianoche el día del procedimiento. Puede consumir una dieta estrictamente líquida hasta 4 horas antes del examen. Ocasionalmente se administra un laxante antes de la enteroscopia. Siga sus instrucciones específicas.",
+      "Usted debe firmar una autorización."
+    ],
+    "lo que se siente durante el examen": [
+      "Le darán calmantes y sedantes para el procedimiento y para que no sienta ningún tipo de molestia. Usted puede tener algo de distensión abdominal o cólicos cuando se despierte. Esto es por el aire que se bombea hacia el abdomen para expandir el área durante el procedimiento.",
+      "Una endoscopia por cápsula no causa molestias."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen se lleva a cabo con más frecuencia para ayudar a diagnosticar enfermedades del intestino delgado. Se puede hacer si usted tiene:",
+      "Resultados anormales en radiografías",
+      "Tumores en el intestino delgado",
+      "Diarrea inexplicable",
+      "Hemorragia digestiva inexplicable"
+    ],
+    "resultados normales": [
+      "En un examen con resultado normal, el médico no encontrará fuentes de sangrado en el intestino delgado y tampoco ningún tipo de tumores ni otros tejidos anormales."
+    ],
+    "significado de los resultados anormales": [
+      "Los signos anormales durante una enteroscopia pueden incluir:",
+      "Anomalías del tejido que recubre el intestino delgado (mucosa) o de las diminutas proyecciones en forma de dedo sobre su superficie (vellosidades)",
+      "Alargamiento anormal de los vasos sanguíneos (angiectasia) en el revestimiento intestinal",
+      "Células inmunitarias llamadas macrófagos PAS positivos",
+      "Pólipos o cáncer",
+      "Enteritis por radiación",
+      "Inflamación o agrandamiento de los vasos o ganglios linfáticos",
+      "Úlceras",
+      "Los cambios encontrados en una enteroscopia pueden ser signos de trastornos y afecciones como:",
+      "Amiloidosis",
+      "Enfermedad celíaca",
+      "Enfermedad de Crohn",
+      "Deficiencia de folato o vitamina B12",
+      "Giardiasis",
+      "Gastroenteritis infecciosa",
+      "Linfangiectasia",
+      "Linfoma",
+      "Angioectasia del instestino delgado",
+      "Cáncer del intestino delgado",
+      "Esprúe tropical",
+      "Enfermedad de Whipple"
+    ],
+    "riesgos": [
+      "Las complicaciones son poco comunes pero pueden incluir:",
+      "Sangrado excesivo del sitio de la biopsia",
+      "Orificio en el intestino (perforación intestinal)",
+      "Infección del sitio de la biopsia que conduce a bacteriemia (bacterias en el torrente sanguíneo)",
+      "Vómitos, seguido de aspiración en los pulmones",
+      "La endoscopia por cápsula puede causar un bloqueo en un intestino angosto con síntomas de dolor y distensión abdominal"
+    ],
+    "consideraciones": [
+      "Los factores que inhiben el uso de este examen pueden incluir:",
+      "Personas confundidas o poco colaboradoras",
+      "Trastornos de coagulación sanguínea sin tratamiento",
+      "Uso de medicamentos que impiden la coagulación normal de la sangre (anticoagulantes)",
+      "El mayor riesgo es el sangrado. Entre los signos de sangrado están:",
+      "Dolor abdominal",
+      "Sangre en las heces",
+      "Vómitos con sangre"
+    ],
+    "nombres alternativos": [
+      "Enteroscopia por pulsión; Enteroscopia de doble balón; Enteroscopia de un solo balón; Enteroscopia en espiral; Enteroscopia por cápsula"
+    ],
+    "imágenes": [
+      "Biopsia del intestino delgado",
+      "Esofagogastroduodenoscopia (EGD)",
+      "Endoscopia por cápsula"
+    ],
+    "referencias": [
+      "Cameron J. Large bowel. In: Cameron J, ed. Current Surgical Therapy.\r\n14th ed. Philadelphia, PA: Elsevier; 2023:177-286.",
+      "Rojas I, Barth B. Capsule endoscopy and small bowel enteroscopy. In:\r\nWyllie R, Hyams JS, Kay M, eds. Pediatric Gastrointestinal and Liver Disease.\r\n6th ed. Philadelphia, PA: Elsevier; 2021:chap 63.",
+      "Sugumar A, Vargo JJ. Preparation for and complications of gastrointestinal\r\nendoscopy. In: Feldman M, Friedman LS, Brandt LJ, eds. Sleisenger and\r\nFordtran's Gastrointestinal and Liver Disease. 11th ed. Philadelphia, PA:\r\nElsevier; 2021:chap 42.",
+      "Waterman M, Zurad EG, Gralnek IM. Video capsule endoscopy. In: Fowler GC,\r\ned. Pfenninger and Fowler's Procedures for Primary Care. 4th ed.\r\nPhiladelphia, PA: Elsevier; 2020:chap 93."
+    ],
+    "ultima revisión 12/31/2023": [
+      "Versión en inglés revisada por: Jenifer K. Lehrer, MD, Department of Gastroenterology, Aria - Jefferson Health Torresdale, Jefferson Digestive Diseases Network, Philadelphia, PA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Cáncer de intestino",
+      "Diarrea",
+      "Enfermedades del intestino delgado",
+      "Enfermedades del sistema digestivo",
+      "Hemorragia gastrointestinal",
+      "Síndromes de malabsorción",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "titulo": "Sepsis",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es una enfermedad en la cual el cuerpo tiene una respuesta grave e inflamatoria a bacterias u otros microorganismos."
+    ],
+    "causas": [
+      "Los síntomas de la sepsis no son causados por los microorganismos en sí. En vez de esto, los químicos que el cuerpo libera causan la respuesta.",
+      "Una infección bacteriana en cualquier lugar del cuerpo puede activar las respuestas que conducen a la sepsis. Los sitios comunes donde una infección podría comenzar incluyen:",
+      "El torrente sanguíneo",
+      "Los huesos (común en los niños)",
+      "El intestino (generalmente se ve con peritonitis)",
+      "Los riñones (infección de las vías urinarias, pielonefritis o urosepsis)",
+      "El revestimiento del cerebro (meningitis)",
+      "El hígado o la vesícula biliar",
+      "Los pulmones (neumonía bacteriana)",
+      "La piel (celulitis)",
+      "En personas hospitalizadas o que recientemente fueron dadas de alta del hospital, los sitios comunes de infección incluyen las vías intravenosas, las heridas quirúrgicas, los drenajes quirúrgicos y los sitios de ruptura de la piel, conocidos como úlceras o úlceras por presión.",
+      "Las sepsis más comúnmente afecta a los bebés o a los adultos mayores."
+    ],
+    "síntomas": [
+      "En una persona con sepsis, la presión arterial cae, ocasionando shock (la incapacidad de brindar la perfusión sanguínea necesaria a todos los órganos del cuerpo). Los sistemas corporales y órganos principales, entre ellos los riñones, el hígado, los pulmones y el sistema nervioso central pueden dejar de funcionar apropiadamente debido a una circulación insuficiente.",
+      "Un cambio en el estado mental y la respiración muy rápida pueden ser los primeros signos de sepsis.",
+      "En general, los síntomas de sepsis pueden incluir:",
+      "Escalofríos",
+      "Confusión o delirio",
+      "Fiebre o temperatura corporal baja (hipotermia)",
+      "Mareo debido a presión arterial baja",
+      "Latidos cardíacos rápidos",
+      "Erupción cutánea o piel moteada",
+      "Piel caliente"
+    ],
+    "pruebas y exámenes": [
+      "Su proveedor de atención médica lo examinará y le preguntará acerca de su historia clínica.",
+      "La infección se confirma a menudo por medio de un examen de sangre. Sin embargo, es posible que este examen no revele infección en personas que han estado recibiendo antibióticos. Algunas infecciones que pueden causar sepsis no se pueden diagnosticar por medio de un examen de sangre.",
+      "Otros exámenes que se pueden hacer incluyen:",
+      "Gasometría arterial",
+      "Pruebas de la función renal",
+      "Conteo de plaquetas, productos de degradación de la fibrina, y tiempos de coagulación (TP y TPT) para verificar riesgo de sangrado",
+      "Conteo completo de glóbulos blancos (CGB)",
+      "Diferencial de glóbulos blancos"
+    ],
+    "tratamiento": [
+      "A una persona con sepsis la hospitalizan por lo general en una unidad de cuidados intensivos (UCI). Los antibióticos usualmente se administran por una vena (vía intravenosa) y debe suministrarse tan pronto como sea posible.",
+      "Otros tratamientos médicos incluyen:",
+      "Oxígeno para ayudar con la respiración",
+      "Líquidos suministrados vía intravenosa",
+      "Medicamentos que aumenten la presión arterial",
+      "Diálisis si hay insuficiencia renal",
+      "Un respirador (ventilación mecánica) si se presenta insuficiencia pulmonar"
+    ],
+    "expectativas (pronóstico)": [
+      "La sepsis a menudo es potencialmente mortal, sobre todo en personas con un sistema inmunitario debilitado o con una enfermedad prolongada (crónica).",
+      "El daño causado por una disminución en el flujo sanguíneo a órganos vitales como el cerebro, el corazón y los riñones puede tomar tiempo para mejorar. Puede haber problemas a largo plazo en estos órganos."
+    ],
+    "prevención": [
+      "El riesgo de sepsis se puede reducir al recibir todas las vacunas recomendadas.",
+      "En el hospital, el lavado cuidadoso de las manos puede ayudar a prevenir las infecciones adquiridas en los hospitales que llevan a que se presente sepsis. El retiro oportuno de las sondas vesicales y las vías intravenosas cuando ya no se necesiten también puede ayudar a prevenir infecciones que conducen a la sepsis."
+    ],
+    "nombres alternativos": [
+      "Septicemia; Síndrome séptico; Síndrome de respuesta inflamatoria sistémica; SRIS; Shock séptico"
+    ],
+    "imágenes": [
+      "Unidad de Cuidados Intensivos (UCI)"
+    ],
+    "referencias": [
+      "Gordon AC, Russell JA. Shock syndromes related to sepsis. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 94.",
+      "Shapiro NI, Jones AE. Sepsis syndrome. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 127.",
+      "van der Poll T, Wiersinga WJ. Sepsis and septic shock. In: Bennett JE, Dolin R, Blaser MJ, eds. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 73."
+    ],
+    "ultima revisión 8/29/2024": [
+      "Versión en inglés revisada por: Jatin M. Vyas, MD, PhD, Professor in Medicine, Harvard Medical School; Associate in Medicine, Division of Infectious Disease, Department of Medicine, Massachusetts General Hospital, Boston, MA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Sepsis",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

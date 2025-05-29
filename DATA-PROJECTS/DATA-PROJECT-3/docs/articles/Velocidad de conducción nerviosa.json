@@ -1,0 +1,125 @@
+{
+  "titulo": "Velocidad de conducción nerviosa",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "VCN es una prueba de la velocidad de las señales eléctricas a través de un nervio. Esta prueba se hace en conjunto con una electromiografía (EMG) para verificar la salud de los músculos en busca de alguna anormalidad muscular."
+    ],
+    "forma en que se realiza el examen": [
+      "Se colocan parches adhesivos, llamados electrodos de superficie, sobre la piel por encima de los nervios o músculos en distintos puntos. Se aplica un impulso eléctrico muy leve a través de otros parches o un estimulador de mano para estimular el nervio.",
+      "La actividad eléctrica resultante del nervio es registrada por los electrodos. La distancia entre los electrodos y el tiempo que le lleva a los impulsos eléctricos viajar entre los electrodos se utilizan para medir la velocidad de las señales nerviosas. Es normal que se examinen varios nervios diferentes.",
+      "Una EMG es el registro a partir de agujas colocadas dentro de los músculos. Esto con frecuencia se realiza durante la misma visita que la VCN."
+    ],
+    "preparación para el examen": [
+      "Es necesario mantener la temperatura corporal normal. Tener una temperatura muy baja altera la conducción nerviosa y puede arrojar un resultado falso.",
+      "Coméntele al proveedor de atención médica si usted tiene un desfibrilador cardíaco o un marcapasos u otro dispositivo implantado, como un estimulador cerebral profundo.. Puede ser necesario tomar precauciones especiales si usted tiene uno de estos dispositivos.",
+      "No se ponga lociones, protector solar, perfume o humectantes en la piel el día de la prueba."
+    ],
+    "lo que se siente durante el examen": [
+      "El impulso puede sentirse como un electrochoque. Usted puede sentir algo de molestia, dependiendo de qué tan fuerte sea el estímulo. Usted no debe sentir dolor una vez que la prueba haya terminado.",
+      "El examen de conducción nerviosa a menudo va seguido por una EMG. En esta prueba se coloca una aguja en el músculo y se le pide que contraiga dicho músculo. Este proceso puede ser incómodo durante el examen. Usted puede experimentar dolor muscular o moretones después del procedimiento en el sitio donde le insertó la aguja."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen se utiliza para diagnosticar daño o destrucción del nervio. Ocasionalmente, el examen se puede utilizar para evaluar enfermedades de nervios o músculos, por ejemplo:",
+      "Miopatía",
+      "Síndrome de Lambert-Eaton",
+      "Miastenia grave",
+      "Síndrome del túnel carpiano",
+      "Síndrome del túnel tarsal",
+      "Neuropatía diabética",
+      "Parálisis de Bell",
+      "Síndrome de Guillain-Barré",
+      "Plexopatía braquial"
+    ],
+    "resultados normales": [
+      "La VCN se relaciona con el diámetro del nervio y con su grado normal de mielinización (la presencia de vaina de mielina en la fibra nerviosa). Los bebés recién nacidos tienen valores que equivalen aproximadamente a la mitad del valor de los adultos. Los valores para los adultos se alcanzan normalmente a la edad de 3 a 4 años.",
+      "Nota: los rangos de los valores normales pueden variar ligeramente entre diferentes laboratorios. Hable con su acerca del significado de los resultados específicos de su examen."
+    ],
+    "significado de los resultados anormales": [
+      "En la mayoría de los casos, los resultados anormales se deben a algún tipo de daño o destrucción del nervio, incluso:",
+      "Axonopatía (daño a la porción larga de la neurona)",
+      "Bloqueo de la conducción (el impulso es bloqueado en algún lugar a lo largo del recorrido del nervio)",
+      "Desmielinización (daño y pérdida del aislamiento graso que rodea la neurona)",
+      "El daño o destrucción del nervio puede deberse a muchas afecciones diferentes, que incluyen:",
+      "Neuropatía alcohólica",
+      "Neuropatía diabética",
+      "Efectos neurológicos de la uremia (por insuficiencia renal)",
+      "Lesión traumática al nervio",
+      "Síndrome de Guillain-Barré",
+      "Difteria",
+      "Síndrome del túnel carpiano",
+      "Plexopatía braquial",
+      "Enfermedad de Charcot-Marie-Tooth (hereditaria)",
+      "Polineuropatía inflamatoria crónica",
+      "Disfunción del nervio peroneo/fibular común",
+      "Disfunción del nervio mediano distal",
+      "Disfunción del nervio femoral",
+      "Ataxia de Friedreich",
+      "Mononeuritis múltiple (neuropatías múltiples)",
+      "Amiloidosis primaria",
+      "Disfunción del nervio radial",
+      "Disfunción del nervio ciático",
+      "Amiloidosis sistémica secundaria",
+      "Polineuropatía sensoriomotora",
+      "Disfunción del nervio tibial",
+      "Disfunción del nervio cubital",
+      "Cualquier neuropatía periférica puede producir resultados anormales. El daño a la médula espinal y la hernia discal (núcleo pulposo herniado) con compresión de la raíz nerviosa también pueden causar resultados anormales."
+    ],
+    "consideraciones": [
+      "Un examen de la velocidad de la conducción nerviosa muestra el estado de las mejores fibras nerviosas sobrevivientes. Por lo tanto, en algunos casos, los resultados pueden ser normales, incluso si hay daño al nervio."
+    ],
+    "nombres alternativos": [
+      "VCN; Estudios de conducción nerviosa (ECN)"
+    ],
+    "imágenes": [
+      "Prueba de conducción nerviosa"
+    ],
+    "referencias": [
+      "Deluca GC, Griggs RC. Approach to the patient with neurologic disease. In: Goldman L, Schafer AI, eds. Goldman-Cecil Medicine. 26th ed. Philadelphia, PA: Elsevier; 2020:chap 368.",
+      "Nuwer MR, Pouratian N. Monitoring of neural function: electromyography, nerve conduction, and evoked potentials. In: Winn HR, ed. Youmans and Winn Neurological Surgery. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 274."
+    ],
+    "ultima revisión 4/29/2023": [
+      "Versión en inglés revisada por: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School of Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Enfermedades neurológicas",
+      "Síndrome de Guillain-Barré",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

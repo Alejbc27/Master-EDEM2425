@@ -1,0 +1,157 @@
+{
+  "titulo": "Examen ocular estándar",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Un examen ocular estándar es una serie de exámenes que se hacen para revisar su visión y la salud de sus ojos."
+    ],
+    "forma en que se realiza el examen": [
+      "Primero, le preguntarán si está teniendo algún problema de los ojos o de visión. Le pedirán que describa estos problemas, por cuánto tiempo los ha tenido, y cualquier factor que los haya hecho mejorar o empeorar.",
+      "También se revisará su historial de gafas o lentes de contacto. El oftalmólogo le hará luego preguntas respecto a su salud general, incluso cualquier medicamento que usted tome y la historia clínica de su familia.",
+      "Luego, el médico revisará su visión (agudeza visual) usando una tabla de Snellen.",
+      "Le pedirán que lea letras al azar que se vuelven más pequeñas línea por la línea a medida que sus ojos se van desplazando hacia abajo en la tabla. Algunas tablas de Snellen son de hecho monitores de video que muestran letras o imágenes.",
+      "Para ver si usted necesita gafas, el médico colocará varios lentes al frente del ojo, uno a la vez, y le preguntará cuándo son más fáciles de ver las letras en la tabla de Snellen. Esto se denomina refracción.",
+      "Otras partes del examen incluyen pruebas para:",
+      "Ver si usted tiene visión tridimensional (3D) apropiada (estereopsis).",
+      "Revisar su visión lateral (periférica).",
+      "Revisar los músculos oculares pidiéndole que mire en diferentes direcciones a una linterna de bolsillo u otro objeto pequeño.",
+      "Examinar las pupilas con una linterna de bolsillo para ver si responden (se contraen) adecuadamente a la luz.",
+      "Con frecuencia, se le administran gotas para los ojos para abrir (dilatar) las pupilas. Esto le permite al médico usar un dispositivo llamado oftalmoscopio para visualizar las estructuras en la parte posterior del ojo. Esta zona se denomina fondo e incluye la retina, los vasos sanguíneos cercanos y el nervio óptico.",
+      "Otro dispositivo de aumento, llamado lámpara de hendidura, se emplea para:",
+      "Ver las partes frontales del ojo (párpados, córnea, conjuntiva, esclerótica e iris)",
+      "Revisar si hay aumento de presión en el ojo (glaucoma) mediante un método llamado tonometría",
+      "El daltonismo se evalúa utilizando tarjetas con puntos multicolores que forman números."
+    ],
+    "preparación para el examen": [
+      "Solicite una cita con el oftalmólogo (algunos reciben pacientes sin cita previa). Evite fatigar los ojos el día del examen. Si usted usa gafas o lentes de contacto, lléveles consigo. Usted necesitará de alguien que lo transporte hasta la casa si el médico utiliza gotas oftálmicas para dilatar las pupilas."
+    ],
+    "lo que se siente durante el examen": [
+      "Los exámenes no causan ningún dolor ni malestar."
+    ],
+    "razones por las que se realiza el examen": [
+      "Todos los niños deben someterse a exámenes de la visión en un consultorio de un pediatra o del médico de la familia más o menos en el momento cuando aprenden el alfabeto, y luego cada 1 a 2 años después de esto. Los exámenes deben empezar más pronto si se sospecha cualquier problema del ojo.",
+      "De acuerdo con la Academia Estadounidense de Oftalmología, se debe utilizar la siguiente programación:",
+      "Entre las edades de 20 y 39 años:",
+      "Se debe hacer un examen ocular completo cada 5 a 10 años",
+      "Los adultos que usan lentes de contacto necesitan exámenes oculares anuales",
+      "Ciertos síntomas o trastornos oculares pueden requerir exámenes más frecuentes",
+      "Los adultos de más 40 años que no tengan ningún factor de riesgo ni afecciones oculares continuas deben ser examinados:",
+      "Cada 2 a 4 años para adultos de 40 a 54 años",
+      "Cada 1 a 3 años para adultos de 55 a 64 años",
+      "Cada 1 a 2 años para adultos de 65 años en adelante",
+      "Dependiendo de los factores de riesgo para enfermedades oculares y sus síntomas o enfermedades actuales, el oftalmólogo le puede recomendar que se haga exámenes con mayor frecuencia.",
+      "Algunos de los problemas oculares y médicos que se puede detectar por medio de un examen oftalmológico de rutina incluyen:",
+      "Cataratas (enturbiamiento del cristalino del ojo)",
+      "Diabetes",
+      "Glaucoma",
+      "Presión arterial alta",
+      "Degeneración macular relacionada con la edad (DMAE), (pérdida de visión nítida central)"
+    ],
+    "resultados normales": [
+      "Los resultados de un examen ocular de rutina son normales cuando el oftalmólogo encuentra que usted tiene:",
+      "Visión 20/20 (6/6) (normal)",
+      "Capacidad para diferenciar colores",
+      "Campo visual completo",
+      "Coordinación apropiada de los músculos oculares",
+      "Presión ocular normal",
+      "Estructuras oculares normales (córnea, iris, cristalino)"
+    ],
+    "significado de los resultados anormales": [
+      "Los resultados anormales pueden deberse a cualquiera de las siguientes:",
+      "DMAE",
+      "Astigmatismo (córnea curveada de manera anormal)",
+      "Obstrucción del conducto lagrimal",
+      "Cataratas",
+      "Daltonismo",
+      "Distrofia corneal",
+      "Úlceras, infecciones o lesiones corneales",
+      "Daño a los nervios o vasos sanguíneos del ojo",
+      "Retinopatía diabética (daño a la parte posterior del ojo relacionado con la diabetes)",
+      "Hiperopía (hipermetropía)",
+      "Glaucoma",
+      "Lesión en los ojos",
+      "Ambliopía (ojo perezoso)",
+      "Miopía (visión corta)",
+      "Presbicia (incapacidad para enfocar los objetos cercanos que se desarrolla con la edad)",
+      "Estrabismo (ojos cruzados)",
+      "Desgarre o desprendimiento de retina",
+      "La lista tal vez no incluya todas las posibles causas de resultados anormales."
+    ],
+    "riesgos": [
+      "Si usted recibió gotas con el fin de dilatar los ojos para una oftalmoscopia, su visión estará borrosa.",
+      "Use gafas oscuras para proteger sus ojos de la luz solar, la cual puede dañarlos más cuando están dilatados.",
+      "Pídale a alguien lo lleve a casa.",
+      "El efecto de las gotas por lo general desaparece en algunas horas.",
+      "En casos poco frecuentes, las gotas para dilatar el ojo causan:",
+      "Un ataque de glaucoma de ángulo estrecho",
+      "Mareo",
+      "Resequedad de la boca",
+      "Sofoco",
+      "Náuseas y vómitos"
+    ],
+    "nombres alternativos": [
+      "Examen oftalmológico estándar; Examen rutinario de los ojos; Examen ocular - estándar; Examen ocular anual"
+    ],
+    "imágenes": [
+      "Examen de la agudeza visual",
+      "Examen del campo visual"
+    ],
+    "referencias": [
+      "Ball JW, Dains JE, Flynn JA, Solomon BS, Stewart RW. Eyes. In: Ball JW, Dains JE, Flynn JA, Solomon BS, Stewart RW, eds. Seidel's Guide to Physical Examination. 10th ed. St Louis, MO: Elsevier; 2023:chap 12.",
+      "Chuck RS, Dunn SP, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Committee, et al. Comprehensive adult medical eye evaluation preferred practice pattern. Ophthalmology. 2021;128(1):1-29. www.aaojournal.org/article/S0161-6420(20)31026-5/fulltext. Published November 12, 2020. Accessed April 5, 2023.",
+      "Olitsky SE, Marsh JD. Examination of the eye. In: Kliegman RM, St. Geme JW, Blum NJ, Shah SS, Tasker RC, Wilson KM, eds. Nelson Textbook of Pediatrics. 21st ed. Philadelphia, PA: Elsevier; 2020:chap 637.",
+      "Prokopich CL, Hrynchak P, Flanagan JG, Hynes AF, Chisholm C. Ocular health assessment. In: Elliott DB, ed. Clinical Procedures in Primary Eye Care. 5th ed. Philadelphia, PA: Elsevier; 2021:chap 7."
+    ],
+    "ultima revisión 2/12/2023": [
+      "Versión en inglés revisada por: Franklin W. Lusby, MD, Ophthalmologist, Lusby Vision Institute, La Jolla, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Ambliopía",
+      "Cataratas",
+      "Cuidado de los ojos y la visión",
+      "Degeneración macular",
+      "Enfermedades de la retina",
+      "Enfermedades de los ojos",
+      "Errores de refracción",
+      "Glaucoma",
+      "Problemas de los ojos asociados con la diabetes",
+      "Problemas y pérdida de la visión",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

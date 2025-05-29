@@ -1,0 +1,101 @@
+{
+  "titulo": "Examen de visión cromática",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un examen que verifica su capacidad para distinguir entre diferentes colores."
+    ],
+    "forma en que se realiza el examen": [
+      "Usted se sentará en una posición cómoda con iluminación normal. El proveedor de atención médica le explicará en qué consiste el examen.",
+      "Existen muchos exámenes para la visión cromática. Durante los más comunes, le mostrarán algunas tarjetas con patrones de puntos de colores. Estas tarjetas se llaman cartas de Ishihara. En los patrones, algunos de los puntos parecerán formar números o símbolos. Se le pedirá identificar los símbolos, si es posible.",
+      "Mientras usted se cubre un ojo, el evaluador sostendrá las cartas a 14 pulgadas (35 centímetros) de su cara y le pedirá que identifique rápidamente el símbolo que se encuentra en cada uno de los patrones de color.",
+      "Según el problema que se sospeche, le pueden pedir que determine la intensidad del color, particularmente en un ojo comparado con el otro. Esto a menudo se evalúa usando la tapa roja de un frasco de gotas oftálmicas.",
+      "Un examen más detallado se denomina la prueba Farnsworth-Munsell de 100 tonos en la cual usted organiza 100 piezas en orden a medida que el tono cambia gradualmente."
+    ],
+    "preparación para el examen": [
+      "Si a su hijo le van a realizar este examen, puede servir el hecho de explicarle lo que se siente e incluso practicar o hacerle una demostración con un muñeco. Su hijo se sentirá menos ansioso con relación al examen si se le explica lo que va a suceder y por qué.",
+      "Generalmente hay una tarjeta de muestra de puntos multicolores que casi cualquier persona puede identificar, incluso personas con problemas de visión cromática.",
+      "Si usted o su hijo normalmente usan gafas, llévenlas puestas durante el examen.",
+      "A los niños pequeños se les puede pedir que digan la diferencia entre una tapa roja de una botella y tapas de un color diferente."
+    ],
+    "lo que se siente durante el examen": [
+      "El examen es semejante a un examen de visión."
+    ],
+    "razones por las que se realiza el examen": [
+      "El examen se hace para determinar si usted tiene algún problema en su visión cromática.",
+      "Los problemas de visión cromática a menudo encajan en dos categorías:",
+      "Problemas presentes al nacer (congénitos) en las células fotosensibles (conos) de la retina (la capa sensible a la luz en la parte posterior del ojo) -- las tarjetas de colores se usan en este caso.",
+      "Enfermedades del nervio óptico, (el nervio que lleva la información visual del ojo al cerebro) -- las tapas de botella se usan en este caso."
+    ],
+    "resultados normales": [
+      "Si su visión de color es normal, podrá distinguir todas las letras, números, o símbolos en las cartas de Ishihara. Si le realizaron el examen con tapas de botella, podrá identificar los colores correctamente."
+    ],
+    "significado de los resultados anormales": [
+      "Este examen puede determinar los siguientes problemas congénitos (presentes al nacer) en la visión cromática:",
+      "Acromatopsia -- daltonismo completo, ver solo tonos de gris",
+      "Deuteranopía -- dificultad para diferenciar entre rojo/púrpura y verde/púrpura",
+      "Protanopía -- dificultad para diferenciar entre azul/verde y rojo/verde",
+      "Tritanopía -- dificultad para diferenciar entre amarillo/verde y azul/verde",
+      "Los problemas en el nervio óptico pueden aparecer como una pérdida de intensidad del color, aunque el examen de tarjetas de color puede ser normal.",
+      "No hay tratamiento para el daltonismo congénito. Sin embargo, hay lentes de contacto especiales que le pueden ayudar a distinguir entre ciertos colores, dependiendo del tipo de daltonismo que tenga."
+    ],
+    "riesgos": [
+      "No existen riesgos con este examen."
+    ],
+    "nombres alternativos": [
+      "Examen de la visión - los colores; Examen visual - los colores; Prueba de visión del color de Ishihara"
+    ],
+    "imágenes": [
+      "Pruebas para el daltonismo"
+    ],
+    "referencias": [
+      "Chuck RS, Dunn SP, Flaxel CJ; American Academy of Ophthalmology Preferred Practice Pattern Committee, et al. Comprehensive adult medical eye evaluation preferred practice pattern. Ophthalmology. 2021;128(1):1-29. www.aaojournal.org/article/S0161-6420(20)31026-5/fulltext. Published November 12, 2020. Accessed April 5, 2023.",
+      "Hutchinson AK, Morse CL, Hercinovic A, et al. Pediatric eye evaluations preferred practice pattern. Ophthalmology. 2023;130(3):222-270. www.aaojournal.org/article/S0161-6420(22)00866-1/fulltext. Published December 19, 2022. Accessed April 5, 2023.",
+      "Karepov S, Ellenbogen T. Metasurface-based contact lenses for color vision deficiency. Opt Lett. 2020;45(6):1379-1382. PMID: 32163975 pubmed.ncbi.nlm.nih.gov/32163975/.",
+      "Salmon JF. Examination of the eye. In: Salmon JF, ed. Kanski's Clinical Ophthalmology. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 1.",
+      "Salmon JF. Hereditary fundus dystrophies. In: Salmon JF, ed. Kanski's Clinical Ophthalmology. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 15."
+    ],
+    "ultima revisión 2/12/2023": [
+      "Versión en inglés revisada por: Franklin W. Lusby, MD, Ophthalmologist, Lusby Vision Institute, La Jolla, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Daltonismo",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

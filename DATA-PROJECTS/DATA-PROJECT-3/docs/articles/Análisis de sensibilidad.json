@@ -1,0 +1,83 @@
+{
+  "titulo": "Análisis de sensibilidad",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Determina la efectividad de los antibióticos contra microorganismos (microbios), como bacterias, que han sido aislados en los cultivos.",
+      "El análisis de la sensibilidad se puede llevar a cabo junto con:",
+      "Hemocultivo",
+      "Urocultivo de toma limpia o urocultivo de muestra por autosondaje",
+      "Cultivo de esputo",
+      "Cultivo de endocérvix (aparato genital femenino)",
+      "Cultivo de garganta",
+      "Cultivo de heridas y otros cultivos"
+    ],
+    "forma en que se realiza el examen": [
+      "Después de que se recoge la muestra, se envía a un laboratorio. Allí, las muestras se ponen en unos recipientes especiales para que los microbios se multipliquen. Se combinan colonias de microorganismos con diferentes antibióticos para observar qué tan bien cada antibiótico inhibe el crecimiento de la colonia. Con este examen, se determina qué tan efectivo es cada antibiótico contra un microorganismo específico."
+    ],
+    "preparación para el examen": [
+      "Siga las instrucciones de su proveedor de atención médica sobre la forma de prepararse respecto al método empleado para obtener el cultivo."
+    ],
+    "lo que se siente durante el examen": [
+      "Lo que se siente durante el examen depende del método utilizado para obtener el cultivo."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen muestra cuáles medicamentos antibióticos se deben utilizar para tratar una infección.",
+      "Muchos microorganismos son resistentes a ciertos antibióticos. Las pruebas de sensibilidad son importantes para ayudar a encontrar el antibiótico apropiado para usted. Su proveedor puede comenzar administrándole un antibiótico, pero posteriormente pasarlo a otro debido a los resultados del análisis de sensibilidad."
+    ],
+    "significado de los resultados anormales": [
+      "Si el microorganismo muestra resistencia a los antibióticos utilizados en la prueba, dichos antibióticos no serán un tratamiento efectivo."
+    ],
+    "riesgos": [
+      "Los riesgos dependen del método utilizado en la obtención de la muestra específica para el cultivo."
+    ],
+    "nombres alternativos": [
+      "Prueba de sensibilidad a los antibióticos; Prueba de susceptibilidad antimicrobiana"
+    ],
+    "referencias": [
+      "Charnot-Katsikas A, Harrington A. In vitro testing of antimicrobial agents. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 58."
+    ],
+    "ultima revisión 2/2/2023": [
+      "Versión en inglés revisada por: Linda J. Vorvick, MD, Clinical Professor, Department of Family Medicine, UW Medicine, School of Medicine, University of Washington, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Antibióticos",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+langchain
+langgraph
+langchain_google_genai
+python-dotenv
+requests
+pyppeteer
+ipython
+streamlit
+flask
+uvicorn

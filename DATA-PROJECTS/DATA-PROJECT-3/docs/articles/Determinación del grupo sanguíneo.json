@@ -1,0 +1,123 @@
+{
+  "titulo": "Determinación del grupo sanguíneo",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un método para indicarle cuál es el tipo de sangre que usted tiene. La determinación del grupo sanguíneo se realiza para que usted pueda donar sangre o recibir una transfusión de sangre de manera segura. También se realiza para ver si usted posee una sustancia llamada factor Rh en la superficie de sus glóbulos rojos.",
+      "El tipo de sangre que usted tenga depende de si hay o no ciertas proteínas en sus glóbulos rojos. Estas proteínas se llaman antígenos. Su tipo de sangre (o grupo sanguíneo) depende de qué tipos de sangre heredó de sus padres.",
+      "La sangre a menudo se clasifica de acuerdo con el sistema de tipificación ABO. Los cuatro tipos de sangre principales son:",
+      "Tipo A",
+      "Tipo B",
+      "Tipo AB",
+      "Tipo O"
+    ],
+    "forma en que se realiza el examen": [
+      "Se necesita una muestra de sangre. El examen para determinar el grupo sanguíneo se denomina tipificación ABO. Su muestra de sangre se mezcla con anticuerpos contra sangre tipo A y tipo B. Entonces, la muestra se revisa para ver si los glóbulos sanguíneos se pegan o no. Si los glóbulos permanecen juntos, eso significa que la sangre reaccionó con uno de los anticuerpos.",
+      "El segundo paso se llama prueba inversa. La parte líquida de la sangre sin células (suero) se mezcla con sangre que se sabe que pertenece al tipo A o al tipo B. Las personas con sangre tipo A tienen anticuerpos anti-B. Las personas que tienen sangre tipo B tienen anticuerpos anti-A. El tipo de sangre O contiene ambos tipos de anticuerpos.",
+      "Estos 2 pasos pueden determinar con precisión su tipo de sangre.",
+      "La determinación del Rh usa un método similar a la tipificación ABO. Cuando se realiza la determinación del tipo de sangre para ver si usted posee el factor Rh en la superficie de sus glóbulos rojos, los resultados serán uno de estos:",
+      "Rh+ (positivo), si usted tiene proteínas de la superficie celular",
+      "Rh- (negativo), si usted no tiene proteínas de la superficie celular"
+    ],
+    "preparación para el examen": [
+      "No se necesita preparación especial para este examen."
+    ],
+    "lo que se siente durante el examen": [
+      "Cuando se introduce la aguja para extraer la sangre, algunas personas sienten un dolor moderado. Otras solo sienten un pinchazo o sensación de picadura. Posteriormente, puede haber algo de sensación pulsátil o un hematoma leve. Esto desaparece rápidamente."
+    ],
+    "razones por las que se realiza el examen": [
+      "La determinación del grupo sanguíneo se hace para que usted puede recibir una transfusión de sangre o un trasplante de manera segura. Su tipo de sangre debe coincidir cercanamente con el tipo de sangre de la sangre que usted está recibiendo. Si los tipos de sangre no coinciden:",
+      "Su sistema inmunitario verá a los glóbulos rojos donados como extraños.",
+      "Se desarrollarán anticuerpos contra los glóbulos rojos donados que atacarán a estas células sanguíneas.",
+      "Las dos formas en que su sangre y la sangre donada pueden no coincidir son:",
+      "Una falta de concordancia entre los tipos de sangre A, B, AB y O. Esta es la forma más común de falta de concordancia. En la mayoría de los casos, la respuesta inmunitaria es muy grave.",
+      "El factor Rh puede no coincidir.",
+      "La determinación del grupo sanguíneo es especialmente importante durante el embarazo. Pruebas cuidadosas pueden prevenir una anemia grave en el recién nacido e ictericia."
+    ],
+    "resultados normales": [
+      "A usted se le dirá qué tipo de sangre ABO tiene. Será uno de estos:",
+      "Sangre tipo A",
+      "Sangre tipo B",
+      "Sangre tipo AB",
+      "Sangre tipo O",
+      "También se le dirá si usted tiene sangre Rh positivo o sangre Rh negativo.",
+      "Basado en los resultados, sus proveedores de atención médica determinan qué tipo de sangre usted puede recibir de manera segura:",
+      "Si usted tiene sangre tipo A, solo puede recibir sangre tipos A y O.",
+      "Si usted tiene sangre tipo B, solo puede recibir sangre tipos B y O.",
+      "Si usted tiene sangre tipo AB, puede recbir sangre tipos A, B, AB y O.",
+      "Si usted tiene sangre tipo O, solo puede recibir sangre tipo O.",
+      "Si usted es Rh+, puede recibir sangre Rh+ o Rh-.",
+      "Si usted es Rh-, solo puede recibir sangre Rh-.",
+      "La sangre tipo O se puede dar a cualquier persona con cualquier tipo de sangre. Es por eso que a las personas con sangre tipo O se las llama dadores universales de sangre."
+    ],
+    "riesgos": [
+      "Hay poco riesgo en la toma de una muestra de sangre. Las venas y las arterias varían de tamaño de una persona a otra y de un lado del cuerpo a otro. Extraer sangre de algunas personas puede ser más difícil que de otras.",
+      "Otros riesgos asociados con la toma de una muestra de sangre son leves, pero pueden incluir:",
+      "Desmayo o sensación de mareo",
+      "Punciones múltiples para localizar las venas",
+      "Sangrado excesivo",
+      "Hematoma (acumulación de sangre debajo de la piel)",
+      "Infección (un riesgo leve en cualquier momento que se presenta ruptura de la piel)"
+    ],
+    "consideraciones": [
+      "Existen muchos antígenos además de los mayores (A, B y Rh). Muchos antígenos menores no se detectan rutinariamente durante la determinación del grupo sanguíneo. Si no se detectan, usted puede aún experimentar una reacción al recibir ciertos tipos de sangre, incluso si los antígenos A, B y Rh son compatibles.",
+      "Un proceso llamado pruebas cruzadas, seguido de una prueba de Coombs, puede ayudar a detectar estos antígenos menores. Se realiza antes de las transfusiones, excepto en situaciones de emergencia."
+    ],
+    "nombres alternativos": [
+      "Pruebas cruzadas; Determinación del Rh; Determinación del grupo sanguíneo ABO; Tipo de sangre ABO; Tipo de sangre A; Tipo de sangre AB; Tipo de sangre O; Transfusión - determinación del grupo sanguíneo"
+    ],
+    "imágenes": [
+      "Eritroblastosis fetal - foto micrografía",
+      "Tipos sanguíneos"
+    ],
+    "referencias": [
+      "Arinsburg SA. Pretransfusion testing. In: Shaz BH, Hillyer CD, Gil MR, eds. Transfusion Medicine and Hemostasis. 3rd ed. Philadelphia, PA: Elsevier; 2019:chap 21.",
+      "Lane WJ, Westhoff CM, Storry JR, Shaz BH. Human blood group antigens and antibodies. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 111.",
+      "Segal GV, Wahed MA. Blood products and blood banking. In: Fowler GC, ed. Pfenninger and Fowler's Procedures for Primary Care. 4th ed. Philadelphia, PA: Elsevier; 2020:chap 234.",
+      "Shaz BH, Hilyer CD. Transfusion medicine. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 162."
+    ],
+    "ultima revisión 3/31/2024": [
+      "Versión en inglés revisada por: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Problemas de la sangre",
+      "Sangre",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

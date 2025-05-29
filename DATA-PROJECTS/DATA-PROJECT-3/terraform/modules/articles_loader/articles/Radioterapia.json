@@ -1,0 +1,106 @@
+{
+  "titulo": "Radioterapia",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "La radioterapia utiliza radiación de alta potencia (como rayos X o rayos gamma), partículas o semillas radiactivas para destruir las células cancerígenas."
+    ],
+    "información": [
+      "Las células cancerígenas se multiplican más rápidamente que las células normales en el cuerpo. Dado que la radiación es más dañina para las células que se reproducen rápidamente, la radioterapia causa más daño a las células cancerígenas que a las células normales. Esto impide que estas aumenten y se dividan, y lleva a que se presente muerte celular.",
+      "La radioterapia se usa para combatir muchos tipos de cáncer y para tratar algunas enfermedades benignas. Algunas veces, es el único tratamiento necesario. Igualmente, se puede utilizar en combinación con otras terapias como la cirugía o la quimioterapia, para:",
+      "Reducir el tamaño de un tumor lo más que se pueda antes de una cirugía",
+      "Ayudar a evitar que el cáncer reaparezca después de la cirugía o la quimioterapia",
+      "Aliviar los síntomas causados por un tumor como el dolor, la presión o el sangrado",
+      "Tratar cánceres que no se pueden extirpar con cirugía",
+      "Tratar cánceres en lugar de realizar una cirugía",
+      "TIPOS DE RADIOTERAPIA",
+      "Los diferentes tipos de radioterapia incluyen interna, externa e intraoperatoria.",
+      "RADIOTERAPIA EXTERNA",
+      "La radiación externo es la forma más común. Este método apunta en forma cuidadosa partículas o radiación de alta potencia directamente al tumor desde fuera del cuerpo. Los nuevos métodos proveen un tratamiento más efectivo con menos daño al tejido. Estos incluyen:",
+      "Radioterapia de intensidad modulada (RIM)",
+      "Radioterapia conformal 3D (RTC3D)",
+      "Terapia con haz de electrones",
+      "Radioterapia guiada por imágenes (RGI)",
+      "Radioterapia estereotáctica (radiocirugía)",
+      "La terapia de protones es otro tipo de radiación utilizada para tratar el cáncer. En lugar de utilizar radiación para destruir las células cancerígenas, la terapia de protones utiliza un haz de partículas especiales llamadas protones. Debido a que causa menos daño al tejido sano, la terapia de protones a menudo se emplea para cánceres que estén muy cerca a partes críticas del cuerpo. Solamente es utilizada en ciertos tipos de cánceres.",
+      "RADIOTERAPIA INTERNA",
+      "La radiación de haz interno se coloca dentro del cuerpo.",
+      "Un método utiliza semillas radiactivas que se colocan directamente dentro o cerca del tumor. Este método se denomina braquiterapia y se emplea para tratar el cáncer de próstata. Se utiliza con menos frecuencia para tratar los cánceres de mama, cuello uterino, pulmón, piel u otros cánceres.",
+      "Otro método implica recibir un líquido radioactivo especial que emite radiación, llamado radio nucleótido. Este líquido radioactivo se puede suministrar en una bebida o pastilla, o por vía IV. La radiación líquida viaja por todo el cuerpo, buscando y destruyendo las células cancerosas. El cáncer de tiroides y algunos cánceres metastásicos se puede tratar utilizando radiación líquida.",
+      "RADIOTERAPIA INTRAOPERATORIA (RIO)",
+      "Este tipo de radiación se usa normalmente durante una cirugía para extirpar un tumor. Se aplica radiación en la zona en donde estaba el tumor inmediatamente después de que este es extirpado y antes de que el cirujano cierre la incisión. La RIO generalmente se usa para tumores que no se han diseminado y en caso de que queden células microscópicas de un tumor más grande después de haber sido extirpado.",
+      "En comparación con la radiación externa, las ventajas de la RIO pueden incluir:",
+      "Es dirigida exclusivamente a la zona del tumor por lo que causa menos daño al tejido",
+      "Solo se suministra una dosis de radiación",
+      "Se suministra una dosis de radiación más pequeña",
+      "EFECTOS SECUNDARIOS DE LA RADIOTERAPIA",
+      "La radioterapia también puede dañar o destruir las células sanas. La destrucción de estas células puede conducir a efectos secundarios.",
+      "Estos efectos secundarios dependen de la dosis de la radiación y de la frecuencia con que se realice la terapia. La radiación de haz externo puede causar cambios en la piel, tales como pérdida del cabello, ardor o enrojecimiento de la piel, adelgazamiento del tejido cutáneo o incluso el desprendimiento de la capa externa de la piel.",
+      "Otros efectos secundarios dependen de la parte del cuerpo que recibe la radiación:",
+      "Abdomen",
+      "Cerebro",
+      "Mamas",
+      "Pecho",
+      "Boca y cuello",
+      "Pelvis (entre las caderas)",
+      "Próstata"
+    ],
+    "nombres alternativos": [
+      "Radioterapia; Cáncer - radioterapia; Terapia de radiación - semillas radioactivas; Radioterapia de intensidad modulada (RIM); Radioterapia guiada por imágenes (RGI); Radiocirugía - radioterapia; Radioterapia estereotáctica (RET) - radioterapia; Radioterapia estereotáxica corporal (RETC) - radioterapia; Radioterapia intraoperatoria; Radioterapia de protones - radioterapia; Radionucleótidos; Radioisótopos"
+    ],
+    "instrucciones para el paciente": [
+      "Alta tras radiocirugía estereotáctica"
+    ],
+    "imágenes": [
+      "Terapia de radiación"
+    ],
+    "referencias": [
+      "Czito BG, Calvo FA, Haddock MG, Blitzlau R, Willett CG. Intraoperative irradiation. In: Gunderson LL, Tepper JE, eds. Gunderson and Tepper's Clinical Radiation Oncology. 5th ed. Philadelphia, PA: Elsevier; 2021:chap 22.",
+      "Doroshow JH. Approach to the patient with cancer. In: Goldman L, Cooney K, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 164.",
+      "National Cancer Institute website. Radiation therapy to treat cancer. www.cancer.gov/about-cancer/treatment/types/radiation-therapy. Updated January 8, 2019. Accessed June 18, 2024.",
+      "Zeman EM, Schreiber EC, Tepper JE. Basics of radiation therapy. In: Niederhuber JE, Armitage JO, Kastan MB, Doroshow JH, Tepper JE, eds. Abeloff's Clinical Oncology. 6th ed. Philadelphia, PA: Elsevier; 2020:chap 27."
+    ],
+    "ultima revisión 5/29/2024": [
+      "Versión en inglés revisada por: David Herold, MD, Radiation Oncologist in Jupiter, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Radioterapia",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

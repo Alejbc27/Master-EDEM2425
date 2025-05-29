@@ -1,0 +1,109 @@
+{
+  "titulo": "Electroforesis de hemoglobina",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "La hemoglobina es una proteína que lleva oxígeno en la sangre. Está presente dentro de los glóbulos rojos. La prueba electroforesis de hemoglobina mide los niveles de las diferentes clases de esta proteína en la sangre."
+    ],
+    "forma en que se realiza el examen": [
+      "Se necesita una muestra de sangre.",
+      "En el laboratorio, el técnico coloca la muestra de sangre en un papel especial y aplica una corriente eléctrica. Las hemoglobinas se mueven sobre el papel y forman bandas que muestran la cantidad de cada tipo de hemoglobina."
+    ],
+    "preparación para el examen": [
+      "No se necesita ningún tipo de preparación especial para este examen."
+    ],
+    "lo que se siente durante el examen": [
+      "Cuando se introduce la aguja para extraer la sangre, algunas personas sienten un dolor moderado. Otras solo sienten un pinchazo o sensación de picadura. Posteriormente, puede haber algo de sensación pulsátil o un hematoma leve. Esto pronto desaparece."
+    ],
+    "razones por las que se realiza el examen": [
+      "A usted le pueden hacer este examen si el proveedor de atención médica sospecha que tiene un trastorno causado por formas anormales de hemoglobina (hemoglobinopatía).",
+      "Existen muchos tipos diferentes de hemoglobina (Hb). Los más comunes son HbA, HbA2, HbE, HbF, HbS, HbC, HbH y HgbM. Los adultos sanos tienen niveles significativos de HbA y HbA2.",
+      "Algunas personas también pueden tener pequeñas cantidades de HbF. Este es el tipo principal de hemoglobina en el cuerpo de un recién nacido. Asimismo, ciertas enfermedades están asociadas con niveles altos de HbF (cuando la HbF corresponde a más del 2% de la hemoglobina total).",
+      "La HbS es una forma anormal de hemoglobina asociada con la anemia drepanocítica. En las personas con esta afección, los glóbulos rojos algunas veces tienen una forma de luna creciente o falciforme. Estas células se descomponen fácilmente o pueden obstruir pequeños vasos sanguíneos.",
+      "La HbC es una forma anormal de hemoglobina asociada con una destrucción excesiva de glóbulos rojos y anemia hemolítica. Los síntomas son mucho más leves que los de la anemia falciforme.",
+      "Otras moléculas de Hb anormales y menos comunes causan otros tipos de anemias."
+    ],
+    "resultados normales": [
+      "En los adultos, estos son los porcentajes normales de moléculas de hemoglobina diferentes:",
+      "HbA: 95% a 98% (0.95 a 0.98)",
+      "HbA2: 2% a 3% (0.02 a 0.03)",
+      "HbE: ausente",
+      "HbF: 0.8% a 2% (0.08 a 0.02)",
+      "HbS: ausente",
+      "HbC: ausente",
+      "En los bebés y los niños, estos son los porcentajes normales de moléculas HbF:",
+      "HbF (recién nacido): 50% a 80% (0.5 a 0.8)",
+      "HbF (6 meses): 8%",
+      "HbF (de más de 6 meses): 1% a 2%",
+      "Los rangos de los valores normales pueden variar ligeramente entre diferentes laboratorios. Algunos laboratorios usan diferentes medidas o pueden evaluar diferentes muestras. Hable con su proveedor sobre el significado de los resultados específicos de su examen."
+    ],
+    "significado de los resultados anormales": [
+      "Valores altos de hemoglobina anormal puede indicar:",
+      "Enfermedad por hemoglobina C",
+      "Trastorno sanguíneo hereditario en el cual el cuerpo produce una forma anormal de hemoglobina (talasemia)",
+      "Hemoglobinopatía poco común",
+      "Anemia falciforme",
+      "Usted puede obtener resultados falsos normales o anormales si ha tenido una transfusión de sangre dentro de las 12 semanas anteriores al examen."
+    ],
+    "riesgos": [
+      "Extraer una muestra de sangre implica muy poco riesgo. Las venas y las arterias varían en tamaño de una persona a otra y de un lado del cuerpo a otro. Extraer sangre de algunas personas puede ser más difícil que de otras.",
+      "Otros riesgos asociados con la extracción de sangre son leves, pero pueden ser:",
+      "Sangrado excesivo",
+      "Desmayo o sensación de mareo",
+      "Hematoma (acumulación de sangre debajo de la piel)",
+      "Infección (un riesgo leve cada vez que se presenta ruptura de la piel)"
+    ],
+    "nombres alternativos": [
+      "Electroforesis de Hb; Electroforesis de la Hgb; Electroforesis - hemoglobina; Talasemia - electroforesis; Células falciformes - electroforesis; Hemoglobinopatía - electroforesis"
+    ],
+    "referencias": [
+      "Elghetany MT, Banki K. Erythrocytic disorders. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. Philadelphia, PA: Elsevier; 2022:chap 33.",
+      "Means RT Jr. Approach to the anemias. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 144.",
+      "Park J. Hematology. In: Anderson CC, Kapoor S, Mark TE, eds. Harriet Lane Handbook, The. 23rd ed. Philadelphia, PA: Elsevier; 2024:chap 14."
+    ],
+    "ultima revisión 3/11/2024": [
+      "Versión en inglés revisada por: Frank D. Brodkey, MD, FCCM, Associate Professor, Section of Pulmonary and Critical Care Medicine, University of Wisconsin School of Medicine and Public Health, Madison, WI. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Anemia",
+      "Enfermedad de células falciformes",
+      "Problemas de la sangre",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

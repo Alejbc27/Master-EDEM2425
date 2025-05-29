@@ -1,0 +1,6 @@
+google-cloud-firestore
+google-cloud-bigquery
+flask
+functions-framework
+python-dotenv
+psycopg2-binary

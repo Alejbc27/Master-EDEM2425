@@ -1,0 +1,123 @@
+{
+  "titulo": "Prueba de esfuerzo con ejercicio",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Se utiliza para medir el efecto del ejercicio sobre el corazón."
+    ],
+    "forma en que se realiza el examen": [
+      "Este examen se hace en un centro médico o en el consultorio de un proveedor de atención médica.",
+      "El técnico colocará diez parches planos y adhesivos llamados electrodos en su pecho. Estos parches se conectan a un monitor de ECG que sigue la actividad eléctrica del corazón durante el examen.",
+      "Usted caminará en una banda caminadora o pedaleará sobre una bicicleta estática. Poco a poco (aproximadamente cada 3 minutos) le pedirán que camine (o pedalee) más rápido y con un ángulo inclinado o con mayor resistencia. Es como caminar rápido o trotar cuesta arriba.",
+      "Mientras usted hace ejercicio, se mide la actividad del corazón con un electrocardiograma (ECG). También se toman lecturas de la presión arterial.",
+      "El examen continúa hasta que:",
+      "Usted alcance la frecuencia cardíaca deseada.",
+      "Usted presente dolor torácico o un cambio en la presión arterial que sea preocupante.",
+      "Los cambios en el ECG muestren que el músculo de su corazón no está recibiendo suficiente oxígeno.",
+      "Usted esté demasiado cansado o tenga otros síntomas, como dolor en una pierna, que le impidan continuar.",
+      "Se le monitoreará durante 10 a 15 minutos después del ejercicio o hasta que su frecuencia cardíaca retorne a sus niveles iniciales. El tiempo total del examen es de aproximadamente 60 minutos."
+    ],
+    "preparación para el examen": [
+      "Utilice zapatos cómodos y ropa holgada para facilitar el ejercicio.",
+      "Pregúntele al proveedor de atención si debe tomar alguno de sus medicamentos regulares en el día del examen. Algunos medicamentos pueden interferir con los resultados del examen. Nunca deje de tomar ningún medicamento sin hablar primero con su proveedor.",
+      "Coméntele a su proveedor si está tomando citrato de sildenafil (Viagra), tadalafil (Cialis) o vardenafil (Levitra) y si ha tomado una dosis en las últimas 24 a 48 horas.",
+      "Usted no debe comer, fumar ni tomar bebidas que contengan cafeína o alcohol durante 3 horas (o más) antes del examen. En la mayoría de los casos, se le pedirá que evite consumir cafeína o sustancias parecidas a la cafeína durante 24 horas previas al examen. Esto incluye:",
+      "Té y café",
+      "Todos los refrescos, incluso los que están etiquetados como descafeinados",
+      "Chocolates",
+      "Ciertos analgésicos que contienen cafeína"
+    ],
+    "lo que se siente durante el examen": [
+      "Se colocarán electrodos (parches conductores) en el pecho para registrar la actividad del corazón. La preparación de los sitios de los electrodos en su pecho puede provocar una sensación de ardor o picazón leve.",
+      "El esfigmomanómetro que tendrá en el brazo se irá inflando con intervalos de pocos minutos. Esto producirá una sensación de compresión que puede sentirse apretada. Se tomarán mediciones iniciales de la frecuencia cardíaca y la presión arterial antes de comenzar el ejercicio.",
+      "Usted comenzará a caminar en una banda caminadora o a pedalear en una bicicleta estática. La velocidad y el ángulo de inclinación de la banda caminadora (o la resistencia del pedaleo) aumentarán poco a poco.",
+      "Algunas veces, las personas experimentan algunos de los siguientes síntomas durante el examen:",
+      "Molestia en el pecho",
+      "Mareo",
+      "Palpitaciones",
+      "Dificultad para respirar"
+    ],
+    "razones por las que se realiza el examen": [
+      "Las razones por las cuales se puede realizar una prueba de esfuerzo con ejercicio incluyen:",
+      "Usted está presentando dolor torácico (para revisar si hay cardiopatía coronaria, es decir, estrechamiento de las arterias que irrigan el músculo del corazón).",
+      "Su angina está empeorando o está ocurriendo con mayor frecuencia.",
+      "Usted ha tenido un ataque cardíaco.",
+      "Le han realizado una angioplastia o una cirugía de revascularización coronaria.",
+      "Usted va a iniciar un programa de ejercicios y tiene cardiopatía o ciertos factores de riesgo, como diabetes.",
+      "Para identificar cambios en el ritmo cardíaco que puedan ocurrir durante el ejercicio.",
+      "Para hacer exámenes adicionales para problemas de válvulas cardíacas (como estenosis de válvula aórtica o estenosis de válvula mitral).",
+      "Puede haber otras razones por las cuales su proveedor recomiende este examen."
+    ],
+    "resultados normales": [
+      "Una prueba con resultados normales casi siempre significa que usted fue capaz de hacer ejercicio la misma cantidad de tiempo o más que la mayoría de las personas de su edad y sexo. Adicionalmente no presentó síntomas o cambios preocupantes en la presión arterial o en su ECG.",
+      "El significado de los resultados de su examen depende de la razón para este, su edad y sus antecedentes de problemas del corazón y otros problemas de salud.",
+      "Puede ser difícil interpretar los resultados de una prueba de esfuerzo solo con ejercicio en algunas personas."
+    ],
+    "significado de los resultados anormales": [
+      "Los resultados anormales pueden deberse a:",
+      "Ritmos cardíacos anormales durante el ejercicio.",
+      "Cambios en su ECG que pueden significar que hay un bloqueo en las arterias que irrigan el corazón (arteriopatía coronaria).",
+      "Cuando usted obtiene un resultado anormal en una prueba de esfuerzo con ejercicio, le pueden hacer otros exámenes del corazón como:",
+      "Cateterismo cardíaco",
+      "Prueba de esfuerzo nuclear",
+      "Ecocardiografía de esfuerzo"
+    ],
+    "riesgos": [
+      "Las pruebas de esfuerzo generalmente son seguras. Algunas personas pueden presentar dolor torácico o se pueden desmayar o desvanecerse. Un ataque cardíaco o un ritmo cardíaco irregular y peligroso son infrecuentes.",
+      "Se sabe de antemano que las personas que tienen mayores probabilidades de presentar estas complicaciones tienen problemas cardíacos, por lo que no se les hace este examen."
+    ],
+    "nombres alternativos": [
+      "ECG de ejercicio; ECG - de ejercicio en cinta sin fin (caminador); ECG de esfuerzo; Prueba de esfuerzo con ejercicio; Electrocardiografía con ejercicio; Ecocardiografía de esfuerzo; Enfermedad de la arteria coronaria - en caminador; EAC - en caminador; Dolor torácico - caminador; Angina - caminador; Cardiopatía - caminador"
+    ],
+    "referencias": [
+      "Balady GJ, Ades PA. Exercise physiology and exercise electrocardiographic testing. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 15.",
+      "Gulati M, Levy PD, Mukherjee D, et al. 2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the evaluation and diagnosis of chest pain: a report of the American College of Cardiology/American Heart Association Joint Committee on clinical practice guidelines. Circulation. 2021;144(22):e368–e454. PMID: 34709879 pubmed.ncbi.nlm.nih.gov/34709879/.",
+      "Morrow DA, de Lemos JA. Stable ischemic heart disease. In: Libby P, Bonow RO, Mann DL, Tomaselli GF, Bhatt DL, Solomon SD, eds. Braunwald's Heart Disease: A Textbook of Cardiovascular Medicine. 12th ed. Philadelphia, PA: Elsevier; 2022:chap 40.",
+      "Virani SS, Newby LK, Arnold SV, et al. 2023 AHA/ACC/ACCP/ASPC/NLA/PCNA guideline for the management of patients with chronic coronary disease: a report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines. Circulation. 2023;148(9):e9–e119. PMID: 37471501 pubmed.ncbi.nlm.nih.gov/37471501/."
+    ],
+    "ultima revisión 7/14/2024": [
+      "Versión en inglés revisada por: Michael A. Chen, MD, PhD, Associate Professor of Medicine, Division of Cardiology, Harborview Medical Center, University of Washington Medical School, Seattle, WA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Arritmia",
+      "Enfermedades del corazón",
+      "Pruebas para la salud del corazón",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

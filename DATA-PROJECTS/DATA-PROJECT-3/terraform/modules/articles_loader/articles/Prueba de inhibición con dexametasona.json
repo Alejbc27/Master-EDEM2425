@@ -1,0 +1,128 @@
+{
+  "titulo": "Prueba de inhibición con dexametasona",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un examen que mide si se puede inhibir la secreción de cortisol por parte de la glándula suprarrenal. También ayuda a evaluar la razón de un exceso de cortisol en el cuerpo, como por ejemplo, si se debe a la secreción excesiva de la hormona adrenocorticotropina (ACTH) por parte de la hipófisis."
+    ],
+    "forma en que se realiza el examen": [
+      "Durante este examen, usted recibirá dexametasona. Este es un medicamento glucocorticoide artificial (sintético) fuerte. Después de esto, se saca sangre para poder medir el nivel de cortisol sanguíneo.",
+      "Existen dos tipos diferentes de la prueba de inhibición con dexametasona: la prueba de dosis baja y la prueba de dosis alta. Cada tipo se puede hacer de un día para otro (común) o el método estándar que tarda 3 días (poco frecuente). Hay diferentes procedimientos que se pueden usar para cualquier de los exámenes. Los ejemplos de estos se describen a continuación.",
+      "Común:",
+      "Dosis baja de un día para otro. Usted recibirá 1 miligramo (mg) de dexametasona a las 11 p.m. y el proveedor de atención médica le tomará la muestra de sangre a las 8 a.m. para una medición de cortisol.",
+      "Dosis alta de un día para otro. El proveedor medirá el cortisol el día del examen por la mañana. Luego, usted recibirá 8 mg de dexametasona a las 11 p.m. y se le tomará una muestra de sangre la mañana siguiente a las 8 a.m. para una medición de cortisol.",
+      "Poco frecuente:",
+      "Dosis baja. Se recoge la orina por 3\r\n días (se almacena en recipientes de recolección por 24 horas) para medir\r\n el cortisol. El segundo día, a usted se le administra una dosis baja\r\n (0.5 mg) de dexametasona por vía oral cada 6 horas por 48 horas.",
+      "Dosis alta. Se recoge orina durante 3\r\n días (se almacena en recipientes de recolección por 24 horas) para\r\n medir cortisol. Al segundo día, a usted se le administra una dosis alta\r\n (2 mg) de dexametasona por vía oral cada 6 horas por 48 horas.",
+      "Lea y siga las instrucciones con cuidado. La causa más común de resultados anormales en este examen es no seguir las instrucciones."
+    ],
+    "preparación para el examen": [
+      "Es posible que su proveedor le aconseje que deje de tomar ciertos medicamentos que puedan afectar el examen, incluyendo:",
+      "Antibióticos",
+      "Medicamentos anticonvulsivos",
+      "Medicamentos que contienen corticosteroides como la hidrocortisona y la prednisona",
+      "Estrógenos",
+      "Anticonceptivos orales",
+      "Diuréticos (píldoras de agua)"
+    ],
+    "lo que se siente durante el examen": [
+      "Cuando se introduce la aguja para extraer la sangre, algunas personas sienten un dolor moderado. Otras solo sienten un pinchazo o sensación de picadura. Posteriormente, puede haber algo de sensación pulsátil o un hematoma leve. Esto pronto desaparece."
+    ],
+    "razones por las que se realiza el examen": [
+      "Este examen se realiza cuando su proveedor sospecha que el cuerpo está produciendo demasiado cortisol. Se hace para ayudar a diagnosticar el síndrome de Cushing e identificar la causa.",
+      "La prueba de dosis baja puede ayudar a establecer si el cuerpo está produciendo demasiada corticotropina. La prueba de dosis alta puede ayudar a determinar si el problema está en la hipófisis (enfermedad de Cushing) o de un sitio diferente en el cuerpo (ectópico).",
+      "La dexametasona es un esteroide artificial (sintético) que se une a los mismos receptores que el cortisol. La dexametasona reduce la secreción de corticotropina en personas normales. Por lo tanto, tomar dexametasona debe reducir el nivel de corticotropina y llevar a la disminución del nivel de cortisol.",
+      "Si la hipófisis produce demasiada corticotropina, usted tendrá una respuesta anormal a la prueba de dosis baja. Sin embargo, una respuesta normal a la prueba de dosis alta."
+    ],
+    "resultados normales": [
+      "Los niveles de cortisol deben disminuir después de que usted reciba dexametasona.",
+      "Dosis baja:",
+      "De un día para otro: 8 a.m. cortisol en plasma inferior a 1.8 microgramos por decilitro (mcg/dL) o 50 nanomoles por litro (nmol/L)",
+      "Estándar: cortisol urinario libre el tercer día 3 inferior a 10 microgramos por día (mcg/día) o 280 nmol/L",
+      "Dosis alta:",
+      "De un día para otro: reducción superior a 50% en cortisol en plasma",
+      "Estándar: reducción superior a 90% en cortisol urinario libre",
+      "Los rangos de los valores normales pueden variar ligeramente entre diferentes laboratorios. Algunos laboratorios utilizan diferentes mediciones o analizan muestras diferentes. Hable con su proveedor de atención médica acerca del significado de los resultados específicos de su examen."
+    ],
+    "significado de los resultados anormales": [
+      "Una respuesta anormal a la prueba de dosis baja puede significar que usted presenta una secreción anormal de cortisol (síndrome de Cushing), lo cual podría deberse a:",
+      "Un tumor suprarrenal que produce cortisol",
+      "Un tumor hipofisario que produce corticotropina",
+      "Un tumor en el cuerpo que produce corticotropina (síndrome de Cushing ectópico)",
+      "La prueba de dosis alta puede ayudar a diferenciar una causa hipofisaria (síndrome de Cushing) de otras causas. Un examen de corticotropina en sangre también puede ayudar a identificar la causa del cortisol alto.",
+      "Los resultados anormales varían con base en la afección causante del problema.",
+      "Síndrome de Cushing causado por tumor suprarrenal:",
+      "Prueba de dosis baja -- no hay una disminución de cortisol en la sangre",
+      "Nivel de corticotropina -- bajo",
+      "En la mayoría de los casos, no se necesita la prueba de dosis alta",
+      "Síndrome de Cushing\r\n ectópico:",
+      "Prueba de dosis baja -- no hay una disminución de cortisol en la sangre",
+      "Nivel de corticotropina -- alto",
+      "Prueba de dosis alta -- no hay una disminución de cortisol en la sangre",
+      "Síndrome de Cushing causado por tumor hipofisario (enfermedad de Cushing):",
+      "Prueba de dosis baja -- no hay una disminución de cortisol en la sangre",
+      "Prueba de dosis alta -- disminución esperada del cortisol en la sangre",
+      "Los resultados de falso positivo pueden suceder por causa de muchas razones, incluyendo, diferentes medicamentos, obesidad, depresión y estrés. Los resultados falsos son más comunes en las mujeres que en los hombres",
+      "Muy a menudo, el nivel de dexametasona en la sangre se mide por la mañana junto con el nivel de cortisol. Para que el resultado de la prueba se considere preciso, el nivel de dexametasona debe ser superior a 200 nanogramos por decilitro (ng/dL) o 4.5 nanomoles por litro (nmol/L). Los niveles de dexametasona más bajos pueden causar un resultado de prueba falso positivo."
+    ],
+    "riesgos": [
+      "Existe un pequeño riesgo en la extracción de sangre. Las venas y las arterias varían de tamaño de una persona a otra y de un lado del cuerpo a otro. Extraer sangre de algunas personas puede ser más difícil que de otras.",
+      "Otros riesgos asociados con la extracción de sangre son leves, pero pueden incluir:",
+      "Sangrado excesivo",
+      "Desmayo o sensación de mareo",
+      "Múltiples punciones para ubicar la vena",
+      "Hematoma (acumulación de sangre debajo de la piel)",
+      "Infección (un riesgo leve cada vez que se presenta ruptura de la piel)"
+    ],
+    "nombres alternativos": [
+      "DST; Prueba de inhibición con corticotropina; Prueba de inhibición con cortisol"
+    ],
+    "referencias": [
+      "Bertholf RL, Cooper M, Winter WE. Adrenal cortex. In: Rifai N, Chiu RWK, Young I, Burnham CD, Wittwer CT, eds. Tietz Textbook of Laboratory Medicine. 7th ed. Philadelphia, PA: Elsevier; 2023:chap 56.",
+      "Guber HA, Oprea M, Russell YX. Evaluation of endocrine function. In: McPherson RA, Pincus MR, eds. Henry's Clinical Diagnosis and Management by Laboratory Methods. 24th ed. St Louis, MO: Elsevier; 2022:chap 25.",
+      "Newell-Price JDC, Auchus RJ. The adrenal cortex. In: Melmed S, Auchus RJ, Goldfine AB, Koenig RJ, Rosen CJ, eds. Williams Textbook of Endocrinology. 14th ed. Philadelphia, PA: Elsevier; 2020:chap 15."
+    ],
+    "ultima revisión 5/12/2023": [
+      "Versión en inglés revisada por: Sandeep K. Dhaliwal, MD, board-certified in Diabetes, Endocrinology, and Metabolism, Springfield, VA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Síndrome de Cushing",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

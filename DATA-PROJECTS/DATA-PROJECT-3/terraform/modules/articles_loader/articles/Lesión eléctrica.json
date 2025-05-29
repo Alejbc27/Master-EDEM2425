@@ -1,0 +1,132 @@
+{
+  "titulo": "Lesión eléctrica",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un daño a la piel o a los órganos internos cuando una persona entra en contacto directo con una corriente eléctrica."
+    ],
+    "consideraciones": [
+      "El cuerpo humano conduce muy bien la electricidad. Eso significa que la electricidad pasa con facilidad a través de nuestro cuerpo. El contacto directo con una corriente eléctrica puede ser mortal. Aunque algunas quemaduras eléctricas parecen menores, puede haber daño interno grave, sobre todo en el corazón, los músculos o el cerebro.",
+      "Una corriente eléctrica puede causar lesiones en cuatro formas:",
+      "Un paro cardíaco debido al efecto eléctrico sobre el corazón",
+      "Destrucción de músculos, nervios y tejidos por una corriente que atraviesa el cuerpo",
+      "Quemaduras térmicas por el contacto con la fuente eléctrica",
+      "Caerse o lesionarse después del contacto con la electricidad"
+    ],
+    "causas": [
+      "Una lesión eléctrica puede ser causada por:",
+      "Contacto accidental con los tomacorrientes, cables eléctricos o partes expuestas de cables o aparatos eléctricos",
+      "Chispas de arcos eléctricos provenientes de líneas de alto voltaje",
+      "Relámpagos",
+      "Maquinarias o exposiciones ocupacionales",
+      "Niños pequeños que muerden o mastican un cable eléctrico o insertan objetos en un tomacorriente",
+      "Armas eléctricas (como un Taser)"
+    ],
+    "síntomas": [
+      "Los síntomas dependen de muchos factores, por ejemplo:",
+      "El tipo y la fuerza del voltaje",
+      "El tiempo que usted estuvo en contacto con la electricidad",
+      "La forma como esta atravesó el cuerpo",
+      "Su salud general",
+      "Los síntomas pueden incluir:",
+      "Cambios en la lucidez mental (nivel de conciencia)",
+      "Fracturas óseas",
+      "Ataque cardíaco (dolor en el pecho, el brazo, el cuello, la mandíbula o la espalda)",
+      "Dolor de cabeza",
+      "Problemas con la deglución, la visión o la audición",
+      "Latidos cardíacos irregulares",
+      "Dolor y espasmos musculares",
+      "Entumecimiento u hormigueo",
+      "Insuficiencia pulmonar o problemas respiratorios",
+      "Convulsiones",
+      "Quemaduras en la piel"
+    ],
+    "primeros auxilios": [
+      "Si lo puede hacer de manera segura, apague la corriente eléctrica. Desconecte el cable, retire el fusible de la caja o apague los interruptores automáticos. Simplemente apagar un aparato puede no interrumpir el flujo de electricidad. No intente rescatar a una persona que esté cerca de líneas de alto voltaje activas.",
+      "Llame al 911 o al número local de emergencias.",
+      "Si no se puede interrumpir la corriente, utilice un objeto no conductor como una escoba, una silla, una alfombra o un tapete de caucho para empujar a la persona lejos de la fuente de corriente. No utilice un objeto húmedo ni metálico. De ser posible, párese sobre algo seco que no conduzca la electricidad, como una estera o periódicos doblados.",
+      "Una vez que la persona esté alejada de la fuente de electricidad, revise sus vías respiratorias, su respiración y pulso. Si alguno de estos se ha detenido o parece peligrosamente lento o muy débil, comience a administrar los primeros auxilios.",
+      "Si la persona está inconsciente y no puede sentir su pulso. debe realizar la resucitación cardiopulmonar (RCP). Realice respiración boca a boca a una persona inconsciente que no esté respirando o que su respiración sea ineficaz.",
+      "Si la persona tiene una quemadura, quítele la ropa que salga con facilidad y enjuague la zona quemada con agua corriente fría hasta que cese el dolor. Dele los primeros auxilios en caso de quemaduras.",
+      "Si la persona se desmaya, palidece o muestra otros signos de shock, acuéstela con la cabeza ligeramente más baja que el tronco y las piernas elevadas, y luego cúbrala con una manta o abrigo caliente.",
+      "Permanezca con la persona hasta que llegue ayuda médica.",
+      "La lesión eléctrica con frecuencia está asociada con explosiones o caídas que pueden ocasionar lesiones graves adicionales. Es posible que usted no pueda notarlas todas. No mueva la cabeza ni el cuello de la persona si puede haber una lesión en la columna.",
+      "Si usted es un pasajero en un vehículo que fue golpeado por una línea eléctrica, permanezca dentro del vehículo hasta que llegue la ayuda a menos de que haya comenzado un incendio. Si es necesario, trate de saltar del vehículo de manera que no mantenga contacto con este al mismo tiempo que toca el suelo."
+    ],
+    "no se debe": [
+      "No se acerque al menos a 20 pies (6 metros) de una persona que se esté electrocutando con corriente eléctrica de alto voltaje (líneas de energía) hasta que la corriente eléctrica se interrumpa.",
+      "No toque a la persona con las manos descubiertas si esta sigue aún en contacto con la fuente de la electricidad.",
+      "No aplique hielo, mantequilla, ungüentos, medicamentos, compresas de algodón esponjado ni vendajes adhesivos a una quemadura.",
+      "No retire la piel muerta ni rompa las ampollas si la persona presenta quemaduras.",
+      "Después de que la electricidad se detenga, no mueva a la persona a menos que haya riesgo en curso, como un incendio o explosión."
+    ],
+    "cuándo contactar a un profesional médico": [
+      "Llame al 911 o al número local de emergencias si una persona ha recibido una quemadura eléctrica."
+    ],
+    "prevención": [
+      "Evite peligros eléctricos en el hogar y en el trabajo. Siga siempre las instrucciones de seguridad del fabricante al utilizar electrodomésticos.",
+      "Evite el uso de aparatos eléctricos mientras se esté bañando o esté mojado.",
+      "Mantenga a los niños alejados de los dispositivos eléctricos, especialmente los que están conectados a una toma de corriente.",
+      "Mantenga los cables eléctricos fuera del alcance de los niños.",
+      "Nunca toque aparatos eléctricos mientras está en contacto con grifos o tuberías de agua fría.",
+      "Enséñele a los niños sobre los peligros de la electricidad.",
+      "Utilice protectores de seguridad para niños en todas las tomas de corriente."
+    ],
+    "nombres alternativos": [
+      "Descarga eléctrica"
+    ],
+    "imágenes": [
+      "Shock",
+      "Lesión eléctrica"
+    ],
+    "referencias": [
+      "Chen P, Bukhman AK. Electrical and lightning injuries. In: Walls RM, ed. Rosen's Emergency Medicine: Concepts and Clinical Practice. 10th ed. Philadelphia, PA: Elsevier; 2023:chap 130.",
+      "Cooper MA, Andrews CJ, Holle RL, Blumenthal R, Aldana NN. Lightening-related injuries and safety. In: Auerbach PS, Cushing TA, Harris NS, eds. Auerbach's Wilderness Medicine. 7th ed. Philadelphia, PA: Elsevier; 2017:chap 5.",
+      "Price LA, Loiacono LA. Electrical injury and lightning injury. In: Cameron JL, Cameron AM, eds. Current Surgical Therapy. 14th ed. Philadelphia, PA: Elsevier; 2023:1433-1442.",
+      "Sheridan RL. Medical aspects of trauma and burns. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 97."
+    ],
+    "ultima revisión 11/2/2023": [
+      "Versión en inglés revisada por: Jesse Borke, MD, CPE, FAAEM, FACEP, Attending Physician at Kaiser Permanente, Orange County, CA. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Heridas y lesiones",
+      "Lesiones por electricidad",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

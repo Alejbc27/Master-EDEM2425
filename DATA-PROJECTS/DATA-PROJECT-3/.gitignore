@@ -1,0 +1,6 @@
+.venv
+.env
+token.json
+client_secret_*
+.terraform.lock.hcl
+.terraform/

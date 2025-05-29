@@ -1,0 +1,110 @@
+{
+  "titulo": "Respuesta inmunitaria",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es la forma como el cuerpo reconoce y se defiende a sí mismo contra bacterias, virus y sustancias que parecen extrañas y dañinas."
+    ],
+    "información": [
+      "El sistema inmunitario protege al organismo de sustancias posiblemente nocivas, reconociendo y respondiendo a los antígenos. Los antígenos son sustancias (por lo general proteínas) que se encuentran en la superficie de las células, los virus, los hongos o las bacterias. Las sustancias inertes, como las toxinas, químicos, drogas y partículas extrañas (como una astilla), también pueden ser antígenos. El sistema inmunitario reconoce y destruye sustancias que contienen antígenos.",
+      "Las células corporales tienen proteínas que son antígenos. Éstos incluyen a un grupo llamado antígenos HLA. Su sistema inmunitario aprende a ver estos antígenos como normales y por lo general no reacciona contra ellos.",
+      "INMUNIDAD INNATA",
+      "La inmunidad innata, o inespecífica, es un sistema de defensas con el cual usted nació y que lo protege contra todos los antígenos. La inmunidad innata consiste en barreras que impiden que los materiales dañinos ingresen en el cuerpo. Estas barreras forman la primera línea de defensa en la respuesta inmunitaria. Ejemplos de inmunidad innata abarcan:",
+      "El reflejo de la tos",
+      "Las enzimas en las lágrimas y los aceites de la piel",
+      "El moco, que atrapa bacterias y partículas pequeñas",
+      "La piel",
+      "El ácido gástrico",
+      "La inmunidad innata también viene en forma de químico proteínico, llamado inmunidad humoral innata. Los ejemplos abarcan: el sistema de complementos del cuerpo y sustancias llamadas interferón e interleucina 1 (que causa la fiebre).",
+      "Si un antígeno traspasa estas barreras, es atacado y destruido por otras partes del sistema inmunitario.",
+      "INMUNIDAD ADQUIRIDA",
+      "Es la inmunidad que se desarrolla con la exposición a diversos antígenos. El sistema inmunitario de la persona construye una defensa contra ese antígeno específico. Las vacunas funcionan provocando inmunidad adquirida sin necesidad de tener la infección primero.",
+      "INMUNIDAD PASIVA",
+      "La inmunidad pasiva se debe a anticuerpos que se producen en un cuerpo diferente del nuestro. Los bebés tienen inmunidad pasiva, dado que nacen con los anticuerpos que la madre les transfiere a través de la placenta. Estos anticuerpos desaparecen entre los 6 y los 12 meses de edad.",
+      "La inmunidad pasiva también puede deberse a la inyección de antisuero, que contiene anticuerpos formados por otra persona o animal. Esto brinda protección inmediata contra un antígeno, pero no suministra una protección duradera. La inmunoglobulina sérica (administrada para la exposición a la hepatitis) y la antitoxina para el tétanos son ejemplos de inmunidad pasiva.",
+      "COMPONENTES DE LA SANGRE",
+      "El sistema inmunitario incluye ciertos tipos de glóbulos blancos al igual que sustancias químicas y proteínas de la sangre, como anticuerpos, proteínas del complemento e interferón. Algunas de éstas atacan directamente las sustancias extrañas en el cuerpo, mientras que otras trabajan juntas para ayudar a las células del sistema inmunitario.",
+      "Los linfocitos son un tipo de glóbulos blancos y los hay del tipo B y T.",
+      "Los linfocitos B se convierten en células que producen anticuerpos. Los anticuerpos se adhieren a un antígeno específico y facilitan la destrucción del antígeno por parte de las células inmunitarias.",
+      "Los linfocitos T atacan los antígenos directamente y ayudan a controlar la respuesta inmunitaria. También liberan químicos, conocidos como citoquinas, los cuales controlan toda la respuesta inmunitaria.",
+      "A medida que los linfocitos se desarrollan, aprenden normalmente a diferenciar entre los tejidos corporales propios y las sustancias que normalmente no se encuentran en el cuerpo. Una vez que se forman las células B y T, algunas de ellas se multiplican y brindan \"memoria\" para el sistema inmunitario. Esto permite responder más rápida y eficientemente la próxima vez que usted esté expuesto al mismo antígeno y, en muchos casos, impide que usted se enferme. Por ejemplo, un individuo que haya padecido o que haya sido vacunado contra la varicela es inmune a contraer esta enfermedad de nuevo.",
+      "INFLAMACIÓN",
+      "La respuesta inflamatoria (inflamación) se presenta cuando los tejidos son lesionados por bacterias, traumatismo, toxinas, calor o cualquier otra causa. El tejido dañado libera químicos, entre ellos histamina, bradiquinina y prostaglandinas. Estos químicos hacen que los vasos sanguíneos dejen escapar líquido hacia los tejidos, lo que causa inflamación. Esto ayuda a aislar la sustancia extraña del contacto posterior con tejidos corporales.",
+      "Los químicos también atraen a los glóbulos blancos llamados fagocitos que se \"comen\" a los microorganismos y células muertas o dañadas. Este proceso se denomina fagocitosis. Los fagocitos finalmente mueren. El pus se forma debido a la acumulación de tejido muerto, bacterias muertas y fagocitos vivos y muertos.",
+      "TRASTORNOS DEL SISTEMA INMUNITARIO Y ALERGIAS",
+      "Los trastornos del sistema inmunitario ocurren cuando la respuesta inmunitaria está dirigida contra el tejido extraño, excesiva (esto causa trastornos autoinmunes como la artritis reumatoidea) o no se presenta (lo que causa inmunodeficiencia y un aumento del riesgo de infecciones). Las alergias involucran una respuesta inmunitaria a una sustancia que el cuerpo de la mayoría de las personas percibe como inofensiva.",
+      "INMUNIZACIÓN",
+      "La vacunación (inmunización) es una forma de desencadenar la respuesta inmunitaria. Se suministran pequeñas dosis de un antígeno, como virus vivos debilitados o muertos o partes de virus para activar la \"memoria\" del sistema inmunitario (linfocitos B activados y linfocitos T sensibilizados). Dicha memoria le permite al cuerpo reaccionar rápida y eficientemente a exposiciones futuras.",
+      "COMPLICACIONES DEBIDO A UNA RESPUESTA INMUNITARIA ALTERADA",
+      "Una respuesta inmunitaria eficiente protege contra muchas enfermedades y trastornos, mientras que una respuesta inmunitaria ineficiente permite que las enfermedades se desarrollen. Una respuesta inmunitaria excesiva, deficiente o equivocada causa trastornos del sistema inmunitario. Una respuesta inmunitaria hiperactiva puede llevar al desarrollo de enfermedades autoinmunitarias, en las cuales se forman anticuerpos contra los tejidos del propio cuerpo.",
+      "Las complicaciones a raíz de la alteración de las respuestas inmunitarias son, entre otras:",
+      "Alergia o hipersensibilidad",
+      "Anafilaxia, una reacción alérgica que amenaza la vida",
+      "Trastornos autoinmunitarios",
+      "Enfermedad injerto contra huésped, una complicación del trasplante de médula ósea",
+      "Trastornos por inmunodeficiencia",
+      "Enfermedad del suero",
+      "Rechazo al trasplante"
+    ],
+    "nombres alternativos": [
+      "Inmunidad innata; Inmunidad humoral; Inmunidad celular; Inmunidad; Respuesta inflamatoria; Inmunidad adquirida (adaptable)"
+    ],
+    "instrucciones para el paciente": [
+      "Cuando su bebé o lactante tenga fiebre",
+      "Resfriados y gripe en adultos - qué preguntarle al médico",
+      "Resfriados y gripe en niños - qué preguntarle a su médico"
+    ],
+    "imágenes": [
+      "Estructuras del sistema inmune",
+      "Fagocitosis"
+    ],
+    "referencias": [
+      "Abbas AK, Lichtman AH, Pillai S. Properties and overview of immune responses. In: Abbas AK, Lichtman AH, Pillai S, eds. Cellular and Molecular Immunology. 10th ed. Philadelphia, PA: Elsevier; 2022:chap 1.",
+      "Bankova L, Barrett N. Innate immunity. In: Burks AW, Holgate ST, O'Hehir RE, et al, eds. Middleton's Allergy: Principles and Practice. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 1.",
+      "Salmon JE. Tissue injury and repair. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 36.",
+      "Tuano KS, Chinen J. Adaptive immunity. In: Burks AW, Holgate ST, O'Hehir RE, et al, eds. Middleton's Allergy: Principles and Practice. 9th ed. Philadelphia, PA: Elsevier; 2020:chap 2."
+    ],
+    "ultima revisión 3/31/2024": [
+      "Versión en inglés revisada por: Deborah Pedersen, MD, MS, Allergy & Asthma Care, PC, Taunton, MA. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Sistema inmunitario y sus enfermedades",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

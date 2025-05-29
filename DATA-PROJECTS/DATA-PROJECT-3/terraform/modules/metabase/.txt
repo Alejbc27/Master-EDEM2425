@@ -1,0 +1,14 @@
+gcloud run deploy metabase-service \
+  --image europe-southwest1-docker.pkg.dev/aivora-qbhlvg/metabase/metabase:v1 \
+  --platform managed \
+  --region europe-southwest1 \
+  --memory 2Gi \
+  --add-cloudsql-instances=aivora-qbhlvg:europe-west1:aivora-prod \
+  --update-env-vars MB_DB_TYPE=postgres \
+  --update-env-vars MB_DB_DBNAME=metabase \
+  --update-env-vars MB_DB_PORT=5432 \
+  --update-env-vars MB_DB_USER=postgres \
+  --update-env-vars MB_DB_PASS=Aivora2023! \
+  --update-env-vars MB_SQL_INSTANCE=aivora-qbhlvg:europe-west1:aivora-prod \
+  --port=8080 \
+  --allow-unauthenticated

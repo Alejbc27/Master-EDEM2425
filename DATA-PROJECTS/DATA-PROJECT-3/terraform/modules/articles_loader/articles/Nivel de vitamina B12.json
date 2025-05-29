@@ -1,0 +1,111 @@
+{
+  "titulo": "Nivel de vitamina B12",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un examen sanguíneo que mide la cantidad de vitamina B12 que hay en la sangre."
+    ],
+    "forma en que se realiza el examen": [
+      "Se necesita una muestra de sangre."
+    ],
+    "preparación para el examen": [
+      "Usted no debería comer ni beber nada durante aproximadamente 6 a 8 horas antes del examen.",
+      "Ciertos medicamentos pueden afectar los resultados de este examen. Su proveedor de atención médica le dirá si necesita dejar de tomar algún medicamento. No suspenda ningún medicamento sin antes hablar con su proveedor.",
+      "Los medicamentos que puedan afectar los resultados del examen abarcan:",
+      "Colchicina",
+      "Neomicina",
+      "Ácido paraaminosalícilico",
+      "Fenitoína"
+    ],
+    "lo que se siente durante el examen": [
+      "Cuando se introduce la aguja para extraer la sangre, algunas personas sienten un dolor moderado. Otras solo sienten un pinchazo o sensación de picadura. Posteriormente, puede haber algo de sensación pulsátil o un hematoma leve. Estos desaparecerán pronto."
+    ],
+    "razones por las que se realiza el examen": [
+      "Con mucha frecuencia, este examen se realiza cuando otros análisis de sangre sugieren la presencia de una afección llamada anemia megaloblástica. La anemia perniciosa causa una forma de anemia megaloblástica ocasionada por una deficiencia de vitamina B12 debido a la absorción deficiente de vitamina B12. Esto puede ocurrir cuando el estómago produce menos de la sustancia (llamada factor intrínseco) que el cuerpo necesita para absorber eficientemente la vitamina B12.",
+      "Su proveedor también puede ordenar un examen de vitamina B12 si usted presenta ciertos síntomas neurológicos. Un nivel bajo de vitamina B12 puede causar entumecimiento u hormigueo en brazos y piernas, debilidad y pérdida del equilibrio.",
+      "Otras afecciones por las cuales se puede hacer el examen:",
+      "Confusión grave y súbita (delirio)",
+      "Pérdida de la función cerebral (demencia)",
+      "Demencia de origen metabólico",
+      "Anormalidades de los nervios, como la neuropatía periférica"
+    ],
+    "resultados normales": [
+      "Los valores normales son de 160 a 950 picogramos por mililitro (pg/mL), o de 118 a 701 picomoles por litro (pmol/L).",
+      "Los rangos de los valores normales pueden variar ligeramente entre diferentes laboratorios. Algunos laboratorios usan diferentes medidas o pueden analizar diferentes muestras. Hable con su proveedor acerca del significado de los resultados específicos de su examen."
+    ],
+    "significado de los resultados anormales": [
+      "Los valores menores 160 pg/mL (118pmol/L) son un posible signo de deficiencia de vitamina B12. Las personas con este grado de deficiencia son propensas a tener o desarrollar síntomas.",
+      "La deficiencia debería ser confirmada observando el nivel de una sustancia en sangre llamada ácido metilmalónico. Un nivel alto indica una verdadera deficiencia de B12.",
+      "Las causas de deficiencia de B12 son, entre otras:",
+      "Insuficiencia de vitamina B12 en la alimentación (poco frecuente a excepción de una dieta vegetariana estricta)",
+      "Enfermedades que causan malabsorción como, por ejemplo, celiaquía y enfermedad de Crohn",
+      "Carencia del factor intrínseco, una proteína que ayuda al intestino a absorber eficientemente la vitamina B12",
+      "Producción de calor corporal por encima de lo normal (por ejemplo, con hipertiroidismo)",
+      "Embarazo",
+      "El aumento en los niveles de vitamina B12 es poco común. Por lo regular, su exceso se excreta en la orina.",
+      "Las afecciones que pueden incrementar el nivel de vitamina B12 abarcan:",
+      "Enfermedad hepática (como la cirrosis o la hepatitis)",
+      "Trastornos mieloproliferativos (por ejemplo, policitemia vera y leucemia mielocítica crónica)"
+    ],
+    "riesgos": [
+      "Extraer una muestra de sangre implica muy poco riesgo. Las venas y las arterias varían de tamaño de un paciente a otro y de un lado del cuerpo a otro. Extraer sangre de algunas personas puede ser más difícil que de otras.",
+      "Otros riesgos asociados con la extracción de sangre son leves, pero pueden incluir:",
+      "Sangrado excesivo",
+      "Desmayo o sensación de mareo",
+      "Múltiples punciones para localizar las venas",
+      "Hematoma (acumulación de sangre debajo de la piel)",
+      "Infección (un riesgo leve cada vez que se presenta ruptura de la piel)"
+    ],
+    "nombres alternativos": [
+      "Examen de cobalamina; Anemia perniciosa - nivel de vitamina B12"
+    ],
+    "referencias": [
+      "Marcogliese AN, Hensch L. Resources for the hematologist: interpretive comments and selected reference values for neonatal, pediatric, and adult populations. In: Hoffman R, Benz EJ, Silberstein LE, et al, eds. Hematology: Basic Principles and Practice. 8th ed. Philadelphia, PA: Elsevier; 2023:chap 159.",
+      "Mason JB, Booth SL. Vitamins, trace minerals, and other micronutrients. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 199.",
+      "Stabler SP. Megaloblastic anemias. In: Goldman L, Cooney KA, eds. Goldman-Cecil Medicine. 27th ed. Philadelphia, PA: Elsevier; 2024:chap 150."
+    ],
+    "ultima revisión 3/31/2024": [
+      "Versión en inglés revisada por: Todd Gersten, MD, Hematology/Oncology, Florida Cancer Specialists & Research Institute, Wellington, FL. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team. Editorial update 08/19/2024.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Anemia",
+      "Vitaminas B",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}

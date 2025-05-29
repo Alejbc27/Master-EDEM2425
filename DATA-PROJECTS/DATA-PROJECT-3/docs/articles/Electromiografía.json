@@ -1,0 +1,126 @@
+{
+  "titulo": "Electromiografía",
+  "contenido": {
+    "introducción": [
+      "Un sitio oficial del Gobierno de Estados Unidos",
+      "Así es como usted puede verificarlo",
+      "Los sitios web oficiales usan .govUn sitio\r\n              web .gov pertenece a una organización oficial del\r\n              Gobierno de Estados Unidos.",
+      "Los sitios web seguros .gov usan HTTPSUn\r\n              candado (\r\n              \nLock\nLocked padlock icon\n\n\n ) o https:// significa que usted se conectó de\r\n              forma segura a un sitio web .gov. Comparta información sensible\r\n              sólo en sitios web oficiales y seguros.",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Acerca de MedlinePlus",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "Temas de salud",
+      "Medicinas y suplementos",
+      "Genética",
+      "Pruebas médicas",
+      "Enciclopedia médica",
+      "Es un examen que verifica la salud de los músculos y los nervios que controlan los músculos."
+    ],
+    "forma en que se realiza el examen": [
+      "Su proveedor de atención médica introduce un electrodo de aguja muy delgado a través de su piel dentro de uno de sus músculos. El electrodo en la aguja detecta la actividad eléctrica liberada por los músculos. Esta actividad aparece en un monitor cercano y se puede escuchar a través de un parlante.",
+      "Después de la colocación de los electrodos, a usted le pueden solicitar que contraiga el músculo. Por ejemplo, doblando el brazo. La actividad eléctrica observada en el monitor suministra información sobre la capacidad del músculo para responder cuando se estimulan los nervios que van a dichos músculos.",
+      "Por lo general se lleva a cabo un examen de la velocidad de conducción nerviosa durante la misma consulta para un EMG. La prueba de velocidad se realiza para saber con qué velocidad y fuerza se mueven los impulsos eléctricos en sus nervios."
+    ],
+    "preparación para el examen": [
+      "Generalmente, no se requiere preparación especial. Evite el uso de cualquier crema o loción el día del examen.",
+      "La temperatura corporal puede afectar los resultados de este examen. Si hace mucho frío afuera, le pueden pedir que espere en un cuarto tibio por un rato antes de que se lleve a cabo el examen.",
+      "Si está tomando anticoagulantes, antes de hacer el examen, coméntele al proveedor que lo está realizando."
+    ],
+    "lo que se siente durante el examen": [
+      "Puede sentir algo de dolor o molestia cuando se introducen las agujas. Pero la mayoría de las personas son capaces de completar el examen sin problema.",
+      "Posteriormente, el músculo puede estar sensible o magullado por unos pocos días."
+    ],
+    "razones por las que se realiza el examen": [
+      "Un EMG se usa con mayor frecuencia cuando una persona tiene síntomas de debilidad, dolor o sensibilidad anormal.  Este examen puede ayudar a diferenciar entre debilidad muscular causada por lesión de un nervio fijado a un músculo y debilidad debido a una enfermedad muscular u otra enfermedad del sistema nervioso."
+    ],
+    "resultados normales": [
+      "Normalmente hay muy poca actividad eléctrica en un músculo en reposo. Introducir las agujas puede causar alguna actividad eléctrica, pero una vez que los músculos se calman, se debe detectar muy poca actividad de este tipo.",
+      "Cuando usted flexiona un músculo, la actividad comienza a aparecer. A medida que usted contrae más el músculo, la actividad eléctrica se incrementa y se puede observar un patrón. Este patrón le ayuda a su proveedor a determinar si el músculo está respondiendo como se debe."
+    ],
+    "significado de los resultados anormales": [
+      "Una EMG puede detectar problemas con los músculos durante el reposo o la actividad. Entre los trastornos o afecciones que ocasionan resultados anormales están los siguientes:",
+      "Neuropatía alcohólica (daño a los nervios por beber demasiado alcohol)",
+      "Esclerosis lateral amiotrófica (ALS; enfermedad de las células nerviosas en el cerebro y médula espinal que controlan el movimiento muscular)",
+      "Disfunción del nervio axilar (daño del nervio que controla el movimiento y la sensación del hombro)",
+      "Distrofia muscular de Becker (debilidad muscular de las piernas y la pelvis)",
+      "Plexopatía braquial (problema que afecta el conjunto de nervios que sale del cuello y entra en el brazo)",
+      "Síndrome del túnel carpiano (problema que afecta el nervio medio en la muñeca y la mano)",
+      "Síndrome del túnel cubital (problema que afecta el nervio cubital en el codo)",
+      "Espondilosis cervical (dolor de cuello debido al desgaste en los discos y huesos del cuello)",
+      "Disfunción del nervio peroneo común (daño al nervio del peroneo que lleva a la pérdida de movimiento o sensación en el pie y pierna)",
+      "Desnervación (reducción de la estimulación nerviosa de un músculo)",
+      "Dermatomiositis (enfermedad muscular que implica inflamación y un sarpullido en la piel)",
+      "Disfunción del nervio mediano distal (problema que afecta el nervio medio del brazo)",
+      "Distrofia muscular de Duchenne (enfermedad hereditaria que produce debilidad muscular)",
+      "Distrofia muscular fascioescapulohumeral (Landouzy-Dejerine; enfermedad de debilidad muscular y pérdida de tejido muscular)",
+      "Parálisis periódica familiar (trastorno que causa debilidad muscular y a veces de potasio en la sangre más bajo de lo normal)",
+      "Disfunción del nervio femoral (pérdida de movimiento o sensación en partes de las piernas debido a daño al nervio femoral)",
+      "Ataxia de Friedreich (enfermedad hereditaria que afecta zonas en el cerebro y médula espinal que controlan la coordinación, el movimiento muscular, y otras funciones)",
+      "Síndrome de Guillain-Barré (trastorno autoinmune de los nervios que lleva a debilidad muscular o parálisis)",
+      "Síndrome de Lambert-Eaton (trastorno autoinmune de los nervios que causa debilidad muscular)",
+      "Mononeuropatía múltiple (es un trastorno del sistema nervioso que implica daño al menos a 2 zonas nerviosas diferentes)",
+      "Mononeuropatía (daño a un solo nervio que resulta en pérdida de movimiento, sensación, u otra función de ese nervio)",
+      "Miopatía (degeneración del músculo causada por varios trastornos, que incluyen la distrofia muscular)",
+      "Miastenia grave (trastorno autoinmune de los nervios que causa debilidad de los músculos voluntarios)",
+      "Neuropatía periférica (daño de los nervios más allá del cerebro y médula espinal)",
+      "Polimiositis (debilidad muscular, inflamación, sensibilidad, y daño al tejido de los músculos esqueléticos)",
+      "Disfunción del nervio radial (daño al nervio radial que causa pérdida de movimiento o sensación en la parte posterior del brazo o la mano)",
+      "Radiculopatía (lesión de las raíces nerviosas a su salida de la columna vertebral, con mayor frecuencia en el cuello o la zona lumbar)",
+      "Disfunción del nervio ciático (lesión o presión en el nervio ciático que causa debilidad, entumecimiento, u hormigueo en la pierna)",
+      "Polineuropatía sensoriomotora (afección que causa disminución en la habilidad de moverse o sentir debido a daño nerviosos)",
+      "Síndrome de Shy-Drager (enfermedad del sistema nervioso que causa síntomas en todo el cuerpo)",
+      "Parálisis periódica tirotóxica (debilidad muscular debido a altos niveles de hormona tiroidea)",
+      "Disfunción del nervio tibial (daño al nervio tibial que causa pérdida de movimiento o sensación en el pie)"
+    ],
+    "riesgos": [
+      "Los riesgos de esta prueba incluyen:",
+      "Sangrado (mínimo)",
+      "Infección en el sitio de inserción de los electrodos (poco frecuente)"
+    ],
+    "nombres alternativos": [
+      "EMG; Miograma; Electromiograma"
+    ],
+    "imágenes": [
+      "Electromiografía"
+    ],
+    "referencias": [
+      "Katirji B. Clinical electromyography. In: Jankovic J, Mazziotta JC, Pomeroy SL, Newman NJ, eds. Bradley and Daroff's Neurology in Clinical Practice. 8th ed. Philadelphia, PA: Elsevier; 2022:chap 36.",
+      "Preston DC, Shapiro BE. Basic overview of electromyography. In: Preston DC, Shapiro BE, eds. Electromyography and Neuromuscular Disorders. 4th ed. Philadelphia, PA: Elsevier; 2021:chap 12."
+    ],
+    "ultima revisión 6/13/2024": [
+      "Versión en inglés revisada por: Joseph V. Campellone, MD, Department of Neurology, Cooper Medical School at Rowan University, Camden, NJ. Review provided by VeriMed Healthcare Network. Also reviewed by David C. Dugdale, MD, Medical Director, Brenda Conaway, Editorial Director, and the A.D.A.M. Editorial team.",
+      "Traducción y localización realizada por: DrTango, Inc."
+    ],
+    "temas de salud relacionados": [
+      "Ataxia de Friedreich",
+      "Atrofia muscular espinal",
+      "Enfermedades musculares",
+      "Enfermedades neuromusculares",
+      "Síndrome de Guillain-Barré",
+      "Health Content Provider06/01/2025",
+      "A.D.A.M., Inc. está acreditada por la URAC, también conocido como American Accreditation HealthCare Commission (www.urac.org). La acreditación de la URAC es un comité auditor independiente para verificar que A.D.A.M. cumple los rigurosos estándares de calidad e integridad. A.D.A.M. es una de las primeras empresas en alcanzar esta tan importante distinción en servicios de salud en la red. Conozca más sobre la politica editorial, el proceso editorial, y  la poliza de privacidad de A.D.A.M.",
+      "La información aquí contenida no debe utilizarse durante ninguna emergencia médica, ni para el diagnóstico o tratamiento de alguna condición médica. Debe consultarse a un médico con licencia para el diagnóstico y tratamiento de todas y cada una de las condiciones médicas. Los enlaces a otros sitios se proporcionan sólo con fines de información, no significa que se les apruebe. No se otorga garantía de ninguna clase, ya sea expresa o implícita, en cuanto a la precisión, confiabilidad, actualidad o exactitud de ninguna de las traducciones hechas por un proveedor de servicios externo de la información aquí contenida en otro idioma. © 1997-2025 A.D.A.M., unidad de negocios de Ebix, Inc. La reproducción o distribución parcial o total de la información aquí contenida está terminantemente prohibida.",
+      "Acerca de MedlinePlus",
+      "Qué hay de nuevo",
+      "Índice",
+      "Contáctenos",
+      "RSS",
+      "Síganos en",
+      "Kit para redes sociales",
+      "Exenciones",
+      "Derechos de autor",
+      "Política de privacidad",
+      "Accesibilidad",
+      "Pautas para enlaces",
+      "Visores y reproductores",
+      "HHS Divulgación de Vulnerabilidad"
+    ]
+  }
+}
