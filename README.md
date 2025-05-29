@@ -1,4 +1,4 @@
-# 🚀 From Zero to Cloud: A Data Engineer’s Learning Log ☁️💡
+# From Foundations to Cloud: A Data Engineering Journey 💡
 
 **Welcome! 👋**  
 This repository is a technical log of my journey through the **Master’s in Big Data & Cloud at EDEM (Valencia, Spain).**  
