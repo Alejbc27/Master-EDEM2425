@@ -17,7 +17,7 @@ The structure follows a **technical journal format**: each section represents a 
 ## 🛠️ Tech Stack
 
 **Languages & Tools**  
-`Python` · `SQL` · `R` · `Docker` · `Git` · `GitHub Actions` · `Airflow` · `Terraform` · `DBT`
+`Python` · `SQL` · `Docker` · `Git` · `GitHub Actions` · `Airflow` · `Terraform` · `DBT`
 
 **Cloud & Infrastructure**  
 `AWS` · `GCP` · `Azure` · `Snowflake` · `Cloud Run` · `Cloud Functions` · `Pub/Sub` · `Dataflow`
