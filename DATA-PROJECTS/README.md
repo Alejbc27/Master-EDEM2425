@@ -25,19 +25,20 @@ Projects were delivered in collaborative teams, facing open-ended business cases
 
 ## 🚀 Projects at a Glance
 
-### 🛰️ [FindMyDistrict – District Recommender System](./DATA-PROJECT-1/)
+### 🧠 [MediQuestAI – Backend & APIs for a Medical AI Assistant](./DATA-PROJECT-3/)
 
-**Use case**: Help citizens choose where to live in Valencia based on personal preferences like price, transport, green spaces, and services.  
+**Use case**: Reduce triage time and appointment management overhead in private clinics through automation and AI.
 
 **Solution**:  
-A Streamlit-based app using the **Analytic Hierarchy Process (AHP)** for weighted recommendations. Interactive map and **Tableau dashboard** provide spatial and statistical insights.
+A cloud-native backend that integrates the **Infermedica API** to collect symptoms via chat, manages session state, and books appointments — always keeping the doctor in charge.
 
-- 🧠 AHP logic for multicriteria decision-making  
-- 🗺️ Interactive district ranking map  
-- 🐘 PostgreSQL + Docker backend for structured data  
-- 📊 Tableau for housing and service analytics  
+- 🧠 Symptom triage via Infermedica (RAG-enhanced, no diagnosis shown)  
+- 📅 APIs for availability search, booking, confirmation, notifications, agent-state, RAG  
+- 🧾 Status API to manage real-time user interactions  
+- ☁️ GCP stack (Cloud Run, Firestore, BigQuery)  
+- 📊 Dashboards in Metabase for bussines analytics  
 
-<p align="center"><img src=".images/dp1.png" height="300"></p>
+<p align="center"><img src=".images/dp3.png" height="350"></p>
 
 ---
 
@@ -57,20 +58,19 @@ A serverless platform deployed on **GCP**, enabling real-time help requests, vol
 
 ---
 
-### 🧠 [MediQuestAI – Backend & APIs for a Medical AI Assistant](./DATA-PROJECT-3/)
+### 🛰️ [FindMyDistrict – District Recommender System](./DATA-PROJECT-1/)
 
-**Use case**: Reduce triage time and appointment management overhead in private clinics through automation and AI.
+**Use case**: Help citizens choose where to live in Valencia based on personal preferences like price, transport, green spaces, and services.  
 
 **Solution**:  
-A cloud-native backend that integrates the **Infermedica API** to collect symptoms via chat, manages session state, and books appointments — always keeping the doctor in charge.
+A Streamlit-based app using the **Analytic Hierarchy Process (AHP)** for weighted recommendations. Interactive map and **Tableau dashboard** provide spatial and statistical insights.
 
-- 🧠 Symptom triage via Infermedica (RAG-enhanced, no diagnosis shown)  
-- 📅 APIs for availability search, booking, confirmation, notifications, agent-state, RAG 
-- 🧾 Status API to manage real-time user interactions  
-- ☁️ GCP stack (Cloud Run, Firestore, BigQuery)  
-- 📊 Dashboards in Metabase for bussines analytics  
+- 🧠 AHP logic for multicriteria decision-making  
+- 🗺️ Interactive district ranking map  
+- 🐘 PostgreSQL + Docker backend for structured data  
+- 📊 Tableau for housing and service analytics  
 
-<p align="center"><img src=".images/dp3.png" height="350"></p>
+<p align="center"><img src=".images/dp1.png" height="300"></p>
 
 ---
 
